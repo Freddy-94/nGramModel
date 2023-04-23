@@ -3,6 +3,13 @@ Author: Alfredo Bernal Luna
 Date: April 17th 2023
 Project: n-gram model implementation - NLP class
 
+Description: This program implements the n-gram-model (https://en.wikipedia.org/wiki/N-gram), to study similarities between texts.
+             In this particular example, we've selected three different texts, containing the lyrics of two nice Mexican songs, along with
+             one poem of the Uruguayan writer Mario Benedetti, although it can be modified to pass any documents we might want to analyze.
+             Notice that this model generalize the bag-of-words-model (https://en.wikipedia.org/wiki/Bag-of-words_model), by buidling the bag-
+             of words with words consisting with text of more than only one word (the intention behind this idea is for analyzing part of the
+             context in the texts we're analyzing). 
+
 Relevant functions:
 
 1.- clean_data -> "clean" the input text data. Also, in this function we implement the method to obatin an "n-grammar".
