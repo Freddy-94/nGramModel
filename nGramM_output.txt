@@ -1,6 +1,6 @@
 
 ===========================================================================================
-The directory where your input texts are located is: C:\Users\alfre\Documents\Alfredo Bernal Luna\TAREAS CIC\4TO SEMESTRE\Tratamiento de lenguaje natural\Tarea 4. nGram Model\InputTexts
+The directory where your input texts are located is: \Tratamiento de lenguaje natural\Tarea 4. nGram Model\InputTexts
 ===========================================================================================
 
 ============================================================================
@@ -9,7 +9,7 @@ The directory where your input texts are located is: C:\Users\alfre\Documents\Al
 
 MiCiudad.txt
 
-MÈxico19Siempre.txt
+M√©xico19Siempre.txt
 
 TeQuiero.txt
 
@@ -64,7 +64,7 @@ is of:
                     Start of tf's (term frequencies) computation:            
 ============================================================================
 
-==Term frequencies for text: {'mi': 3, 'ciudad': 3, 'es': 12, 'chinampa': 2, 'en': 10, 'un': 11, 'lago': 2, 'escondido': 2, 'cenzontle': 2, 'que': 12, 'busca': 2, 'donde': 2, 'hacer': 2, 'nido': 2, 'rehilete': 2, 'engaÒa': 2, 'la': 7, 'vista': 2, 'al': 9, 'girar': 2, 'baila': 3, 'son': 3, 'del': 3, 'tequila': 3, 'y': 13, 'de': 12, 'su': 5, 'valentÌa': 3, 'jinete': 3, 'arriesga': 3, 'vida': 3, 'lienzo': 3, 'fiesta': 3, 'color': 3, 'cuna': 1, 'niÒo': 1, 'dormido': 1, 'bosque': 1, 'espejos': 1, 'cuida': 1, 'castillo': 1, 'monumentos': 1, 'gloria': 1, 'velan': 1, 'andar': 1, 'sol': 3, 'con': 4, 'penacho': 3, 'sarape': 3, 'veteado': 3, 'las': 5, 'noches': 3, 'se': 8, 'viste': 3, 'charro': 3, 'pone': 3, 'a': 3, 'cantarle': 3, 'amor': 3, 'por': 1, 'tardes': 1, 'lluvia': 1, 'baÒa': 1, 'piel': 1, 'morena': 1, 'desatarse': 1, 'trenzas': 1, 'sus': 1, 'ojos': 1, 'tristes': 1, 'cierran': 1}==
+==Term frequencies for text: {'mi': 3, 'ciudad': 3, 'es': 12, 'chinampa': 2, 'en': 10, 'un': 11, 'lago': 2, 'escondido': 2, 'cenzontle': 2, 'que': 12, 'busca': 2, 'donde': 2, 'hacer': 2, 'nido': 2, 'rehilete': 2, 'enga√±a': 2, 'la': 7, 'vista': 2, 'al': 9, 'girar': 2, 'baila': 3, 'son': 3, 'del': 3, 'tequila': 3, 'y': 13, 'de': 12, 'su': 5, 'valent√≠a': 3, 'jinete': 3, 'arriesga': 3, 'vida': 3, 'lienzo': 3, 'fiesta': 3, 'color': 3, 'cuna': 1, 'ni√±o': 1, 'dormido': 1, 'bosque': 1, 'espejos': 1, 'cuida': 1, 'castillo': 1, 'monumentos': 1, 'gloria': 1, 'velan': 1, 'andar': 1, 'sol': 3, 'con': 4, 'penacho': 3, 'sarape': 3, 'veteado': 3, 'las': 5, 'noches': 3, 'se': 8, 'viste': 3, 'charro': 3, 'pone': 3, 'a': 3, 'cantarle': 3, 'amor': 3, 'por': 1, 'tardes': 1, 'lluvia': 1, 'ba√±a': 1, 'piel': 1, 'morena': 1, 'desatarse': 1, 'trenzas': 1, 'sus': 1, 'ojos': 1, 'tristes': 1, 'cierran': 1}==
 
 The tf for the word 'mi' is of: 0.04225352112676056
 
@@ -96,7 +96,7 @@ The tf for the word 'nido' is of: 0.028169014084507043
 
 The tf for the word 'rehilete' is of: 0.028169014084507043
 
-The tf for the word 'engaÒa' is of: 0.028169014084507043
+The tf for the word 'enga√±a' is of: 0.028169014084507043
 
 The tf for the word 'la' is of: 0.09859154929577464
 
@@ -120,7 +120,7 @@ The tf for the word 'de' is of: 0.16901408450704225
 
 The tf for the word 'su' is of: 0.07042253521126761
 
-The tf for the word 'valentÌa' is of: 0.04225352112676056
+The tf for the word 'valent√≠a' is of: 0.04225352112676056
 
 The tf for the word 'jinete' is of: 0.04225352112676056
 
@@ -136,7 +136,7 @@ The tf for the word 'color' is of: 0.04225352112676056
 
 The tf for the word 'cuna' is of: 0.014084507042253521
 
-The tf for the word 'niÒo' is of: 0.014084507042253521
+The tf for the word 'ni√±o' is of: 0.014084507042253521
 
 The tf for the word 'dormido' is of: 0.014084507042253521
 
@@ -190,7 +190,7 @@ The tf for the word 'tardes' is of: 0.014084507042253521
 
 The tf for the word 'lluvia' is of: 0.014084507042253521
 
-The tf for the word 'baÒa' is of: 0.014084507042253521
+The tf for the word 'ba√±a' is of: 0.014084507042253521
 
 The tf for the word 'piel' is of: 0.014084507042253521
 
@@ -208,7 +208,7 @@ The tf for the word 'tristes' is of: 0.014084507042253521
 
 The tf for the word 'cierran' is of: 0.014084507042253521
 
-==Term frequencies for text: {'entre': 2, 'mis': 4, 'viejos': 2, 'campanarios': 2, 'se': 6, 'aparece': 2, 'la': 7, 'luna': 5, 'pajarera': 2, 'ya': 2, 'marcha': 2, 'con': 4, 'su': 2, 'paisaje': 2, 'de': 32, 'plumas': 2, 'cintura': 1, 'noche': 6, 'flor': 2, 'chinampa': 1, 'siglos': 1, 'cuento': 2, 'mexicano': 2, 've': 2, 'bailando': 2, 'en': 6, 'ciudad': 4, 'canto': 3, 'cilindro': 2, 'voz': 2, 'apagada': 2, 'un': 2, 'rezo': 2, 'laguna': 1, 'abuelos': 1, 'tierra': 1, 'agua': 1, 'celeste': 1, 'regiÛn': 1, 'transparente': 1, 'palacios': 1, 'te': 4, 'llamaron': 1, 'nombraron': 1, 'canasta': 1, 'flores': 6, 'adorna': 1, 'tu': 14, 'frente': 1, 'colores': 2, 'soy': 1, 'jardinero': 1, 'tus': 1, 'zandunga': 1, 'y': 2, 'llanto': 1, 'quiero': 3, 'dejar': 1, 'pregones': 1, 'todo': 1, 'fiesta': 1, 'juÈguesela': 1, 'patroncita': 1, 'el': 1, 'cero': 1, 'que': 3, 'llama': 1, 'dinero': 1, 'es': 1, 'mi': 2, '·rbol': 1, 'rebelde': 1, 'deborando': 1, 'sus': 1, 'brazos': 1, 'todos': 1, 'aquellos': 1, 'personajes': 1, 'aquÈl': 2, 'refr·n': 1, 'decÌa': 1, 'paloma': 1, 'mÌa': 1, 'vida': 1, 'surtidor': 1, 'del': 1, 'cierlo': 1, 'danza': 1, 'mil': 1, 'floricanto': 2, 'rey': 1, 'poeta': 1, 'plaza': 1, 'soleada': 1, 'huele': 1, 'a': 1, 'murmullo': 1, 'dÌa': 3, 'pecho': 3, 'cubierto': 3}==
+==Term frequencies for text: {'entre': 2, 'mis': 4, 'viejos': 2, 'campanarios': 2, 'se': 6, 'aparece': 2, 'la': 7, 'luna': 5, 'pajarera': 2, 'ya': 2, 'marcha': 2, 'con': 4, 'su': 2, 'paisaje': 2, 'de': 32, 'plumas': 2, 'cintura': 1, 'noche': 6, 'flor': 2, 'chinampa': 1, 'siglos': 1, 'cuento': 2, 'mexicano': 2, 've': 2, 'bailando': 2, 'en': 6, 'ciudad': 4, 'canto': 3, 'cilindro': 2, 'voz': 2, 'apagada': 2, 'un': 2, 'rezo': 2, 'laguna': 1, 'abuelos': 1, 'tierra': 1, 'agua': 1, 'celeste': 1, 'regi√≥n': 1, 'transparente': 1, 'palacios': 1, 'te': 4, 'llamaron': 1, 'nombraron': 1, 'canasta': 1, 'flores': 6, 'adorna': 1, 'tu': 14, 'frente': 1, 'colores': 2, 'soy': 1, 'jardinero': 1, 'tus': 1, 'zandunga': 1, 'y': 2, 'llanto': 1, 'quiero': 3, 'dejar': 1, 'pregones': 1, 'todo': 1, 'fiesta': 1, 'ju√©guesela': 1, 'patroncita': 1, 'el': 1, 'cero': 1, 'que': 3, 'llama': 1, 'dinero': 1, 'es': 1, 'mi': 2, '√°rbol': 1, 'rebelde': 1, 'deborando': 1, 'sus': 1, 'brazos': 1, 'todos': 1, 'aquellos': 1, 'personajes': 1, 'aqu√©l': 2, 'refr√°n': 1, 'dec√≠a': 1, 'paloma': 1, 'm√≠a': 1, 'vida': 1, 'surtidor': 1, 'del': 1, 'cierlo': 1, 'danza': 1, 'mil': 1, 'floricanto': 2, 'rey': 1, 'poeta': 1, 'plaza': 1, 'soleada': 1, 'huele': 1, 'a': 1, 'murmullo': 1, 'd√≠a': 3, 'pecho': 3, 'cubierto': 3}==
 
 The tf for the word 'entre' is of: 0.02
 
@@ -286,7 +286,7 @@ The tf for the word 'agua' is of: 0.01
 
 The tf for the word 'celeste' is of: 0.01
 
-The tf for the word 'regiÛn' is of: 0.01
+The tf for the word 'regi√≥n' is of: 0.01
 
 The tf for the word 'transparente' is of: 0.01
 
@@ -332,7 +332,7 @@ The tf for the word 'todo' is of: 0.01
 
 The tf for the word 'fiesta' is of: 0.01
 
-The tf for the word 'juÈguesela' is of: 0.01
+The tf for the word 'ju√©guesela' is of: 0.01
 
 The tf for the word 'patroncita' is of: 0.01
 
@@ -350,7 +350,7 @@ The tf for the word 'es' is of: 0.01
 
 The tf for the word 'mi' is of: 0.02
 
-The tf for the word '·rbol' is of: 0.01
+The tf for the word '√°rbol' is of: 0.01
 
 The tf for the word 'rebelde' is of: 0.01
 
@@ -366,15 +366,15 @@ The tf for the word 'aquellos' is of: 0.01
 
 The tf for the word 'personajes' is of: 0.01
 
-The tf for the word 'aquÈl' is of: 0.02
+The tf for the word 'aqu√©l' is of: 0.02
 
-The tf for the word 'refr·n' is of: 0.01
+The tf for the word 'refr√°n' is of: 0.01
 
-The tf for the word 'decÌa' is of: 0.01
+The tf for the word 'dec√≠a' is of: 0.01
 
 The tf for the word 'paloma' is of: 0.01
 
-The tf for the word 'mÌa' is of: 0.01
+The tf for the word 'm√≠a' is of: 0.01
 
 The tf for the word 'vida' is of: 0.01
 
@@ -404,13 +404,13 @@ The tf for the word 'a' is of: 0.01
 
 The tf for the word 'murmullo' is of: 0.01
 
-The tf for the word 'dÌa' is of: 0.03
+The tf for the word 'd√≠a' is of: 0.03
 
 The tf for the word 'pecho' is of: 0.03
 
 The tf for the word 'cubierto' is of: 0.03
 
-==Term frequencies for text: {'si': 3, 'te': 8, 'quiero': 8, 'es': 6, 'porque': 5, 'sos': 4, 'mi': 9, 'amor': 4, 'cÛmplice': 3, 'y': 13, 'todo': 3, 'en': 5, 'la': 6, 'calle': 3, 'codo': 6, 'a': 3, 'somos': 6, 'mucho': 5, 'm·s': 5, 'que': 13, 'dos': 5, 'tus': 3, 'manos': 2, 'son': 2, 'caricia': 1, 'mis': 1, 'acordes': 1, 'cotidianos': 1, 'por': 7, 'trabajan': 1, 'justicia': 1, 'ojos': 1, 'el': 2, 'conjuro': 1, 'contra': 1, 'mala': 1, 'jornada': 1, 'tu': 7, 'mirada': 1, 'mira': 1, 'siembra': 1, 'futuro': 1, 'boca': 3, 'tuya': 1, 'mÌa': 1, 'no': 4, 'se': 1, 'equivoca': 1, 'sabe': 2, 'gritar': 1, 'rebeldÌa': 1, 'rostro': 1, 'sincero': 1, 'paso': 1, 'vagabundo': 1, 'llanto': 1, 'mundo': 1, 'pueblo': 1, 'auriola': 1, 'ni': 1, 'c·ndida': 1, 'moraleja': 1, 'pareja': 1, 'est·': 1, 'sola': 1, 'paraÌso': 1, 'decir': 1, 'paÌs': 1, 'gente': 1, 'viva': 1, 'feliz': 1, 'aunque': 1, 'tenga': 1, 'permiso': 1}==
+==Term frequencies for text: {'si': 3, 'te': 8, 'quiero': 8, 'es': 6, 'porque': 5, 'sos': 4, 'mi': 9, 'amor': 4, 'c√≥mplice': 3, 'y': 13, 'todo': 3, 'en': 5, 'la': 6, 'calle': 3, 'codo': 6, 'a': 3, 'somos': 6, 'mucho': 5, 'm√°s': 5, 'que': 13, 'dos': 5, 'tus': 3, 'manos': 2, 'son': 2, 'caricia': 1, 'mis': 1, 'acordes': 1, 'cotidianos': 1, 'por': 7, 'trabajan': 1, 'justicia': 1, 'ojos': 1, 'el': 2, 'conjuro': 1, 'contra': 1, 'mala': 1, 'jornada': 1, 'tu': 7, 'mirada': 1, 'mira': 1, 'siembra': 1, 'futuro': 1, 'boca': 3, 'tuya': 1, 'm√≠a': 1, 'no': 4, 'se': 1, 'equivoca': 1, 'sabe': 2, 'gritar': 1, 'rebeld√≠a': 1, 'rostro': 1, 'sincero': 1, 'paso': 1, 'vagabundo': 1, 'llanto': 1, 'mundo': 1, 'pueblo': 1, 'auriola': 1, 'ni': 1, 'c√°ndida': 1, 'moraleja': 1, 'pareja': 1, 'est√°': 1, 'sola': 1, 'para√≠so': 1, 'decir': 1, 'pa√≠s': 1, 'gente': 1, 'viva': 1, 'feliz': 1, 'aunque': 1, 'tenga': 1, 'permiso': 1}==
 
 The tf for the word 'si' is of: 0.04054054054054054
 
@@ -428,7 +428,7 @@ The tf for the word 'mi' is of: 0.12162162162162163
 
 The tf for the word 'amor' is of: 0.05405405405405406
 
-The tf for the word 'cÛmplice' is of: 0.04054054054054054
+The tf for the word 'c√≥mplice' is of: 0.04054054054054054
 
 The tf for the word 'y' is of: 0.17567567567567569
 
@@ -448,7 +448,7 @@ The tf for the word 'somos' is of: 0.08108108108108109
 
 The tf for the word 'mucho' is of: 0.06756756756756757
 
-The tf for the word 'm·s' is of: 0.06756756756756757
+The tf for the word 'm√°s' is of: 0.06756756756756757
 
 The tf for the word 'que' is of: 0.17567567567567569
 
@@ -500,7 +500,7 @@ The tf for the word 'boca' is of: 0.04054054054054054
 
 The tf for the word 'tuya' is of: 0.013513513513513514
 
-The tf for the word 'mÌa' is of: 0.013513513513513514
+The tf for the word 'm√≠a' is of: 0.013513513513513514
 
 The tf for the word 'no' is of: 0.05405405405405406
 
@@ -512,7 +512,7 @@ The tf for the word 'sabe' is of: 0.02702702702702703
 
 The tf for the word 'gritar' is of: 0.013513513513513514
 
-The tf for the word 'rebeldÌa' is of: 0.013513513513513514
+The tf for the word 'rebeld√≠a' is of: 0.013513513513513514
 
 The tf for the word 'rostro' is of: 0.013513513513513514
 
@@ -532,21 +532,21 @@ The tf for the word 'auriola' is of: 0.013513513513513514
 
 The tf for the word 'ni' is of: 0.013513513513513514
 
-The tf for the word 'c·ndida' is of: 0.013513513513513514
+The tf for the word 'c√°ndida' is of: 0.013513513513513514
 
 The tf for the word 'moraleja' is of: 0.013513513513513514
 
 The tf for the word 'pareja' is of: 0.013513513513513514
 
-The tf for the word 'est·' is of: 0.013513513513513514
+The tf for the word 'est√°' is of: 0.013513513513513514
 
 The tf for the word 'sola' is of: 0.013513513513513514
 
-The tf for the word 'paraÌso' is of: 0.013513513513513514
+The tf for the word 'para√≠so' is of: 0.013513513513513514
 
 The tf for the word 'decir' is of: 0.013513513513513514
 
-The tf for the word 'paÌs' is of: 0.013513513513513514
+The tf for the word 'pa√≠s' is of: 0.013513513513513514
 
 The tf for the word 'gente' is of: 0.013513513513513514
 
@@ -595,7 +595,7 @@ The idf for the word 'nido' is of: 0.4054651081081644
 
 The idf for the word 'rehilete' is of: 0.4054651081081644
 
-The idf for the word 'engaÒa' is of: 0.4054651081081644
+The idf for the word 'enga√±a' is of: 0.4054651081081644
 
 The idf for the word 'la' is of: -0.2876820724517809
 
@@ -619,7 +619,7 @@ The idf for the word 'de' is of: 0.0
 
 The idf for the word 'su' is of: 0.0
 
-The idf for the word 'valentÌa' is of: 0.4054651081081644
+The idf for the word 'valent√≠a' is of: 0.4054651081081644
 
 The idf for the word 'jinete' is of: 0.4054651081081644
 
@@ -635,7 +635,7 @@ The idf for the word 'color' is of: 0.4054651081081644
 
 The idf for the word 'cuna' is of: 0.4054651081081644
 
-The idf for the word 'niÒo' is of: 0.4054651081081644
+The idf for the word 'ni√±o' is of: 0.4054651081081644
 
 The idf for the word 'dormido' is of: 0.4054651081081644
 
@@ -689,7 +689,7 @@ The idf for the word 'tardes' is of: 0.4054651081081644
 
 The idf for the word 'lluvia' is of: 0.4054651081081644
 
-The idf for the word 'baÒa' is of: 0.4054651081081644
+The idf for the word 'ba√±a' is of: 0.4054651081081644
 
 The idf for the word 'piel' is of: 0.4054651081081644
 
@@ -765,7 +765,7 @@ The idf for the word 'agua' is of: 0.4054651081081644
 
 The idf for the word 'celeste' is of: 0.4054651081081644
 
-The idf for the word 'regiÛn' is of: 0.4054651081081644
+The idf for the word 'regi√≥n' is of: 0.4054651081081644
 
 The idf for the word 'transparente' is of: 0.4054651081081644
 
@@ -807,7 +807,7 @@ The idf for the word 'pregones' is of: 0.4054651081081644
 
 The idf for the word 'todo' is of: 0.0
 
-The idf for the word 'juÈguesela' is of: 0.4054651081081644
+The idf for the word 'ju√©guesela' is of: 0.4054651081081644
 
 The idf for the word 'patroncita' is of: 0.4054651081081644
 
@@ -819,7 +819,7 @@ The idf for the word 'llama' is of: 0.4054651081081644
 
 The idf for the word 'dinero' is of: 0.4054651081081644
 
-The idf for the word '·rbol' is of: 0.4054651081081644
+The idf for the word '√°rbol' is of: 0.4054651081081644
 
 The idf for the word 'rebelde' is of: 0.4054651081081644
 
@@ -833,15 +833,15 @@ The idf for the word 'aquellos' is of: 0.4054651081081644
 
 The idf for the word 'personajes' is of: 0.4054651081081644
 
-The idf for the word 'aquÈl' is of: 0.4054651081081644
+The idf for the word 'aqu√©l' is of: 0.4054651081081644
 
-The idf for the word 'refr·n' is of: 0.4054651081081644
+The idf for the word 'refr√°n' is of: 0.4054651081081644
 
-The idf for the word 'decÌa' is of: 0.4054651081081644
+The idf for the word 'dec√≠a' is of: 0.4054651081081644
 
 The idf for the word 'paloma' is of: 0.4054651081081644
 
-The idf for the word 'mÌa' is of: 0.0
+The idf for the word 'm√≠a' is of: 0.0
 
 The idf for the word 'surtidor' is of: 0.4054651081081644
 
@@ -865,7 +865,7 @@ The idf for the word 'huele' is of: 0.4054651081081644
 
 The idf for the word 'murmullo' is of: 0.4054651081081644
 
-The idf for the word 'dÌa' is of: 0.4054651081081644
+The idf for the word 'd√≠a' is of: 0.4054651081081644
 
 The idf for the word 'pecho' is of: 0.4054651081081644
 
@@ -877,7 +877,7 @@ The idf for the word 'porque' is of: 0.4054651081081644
 
 The idf for the word 'sos' is of: 0.4054651081081644
 
-The idf for the word 'cÛmplice' is of: 0.4054651081081644
+The idf for the word 'c√≥mplice' is of: 0.4054651081081644
 
 The idf for the word 'calle' is of: 0.4054651081081644
 
@@ -887,7 +887,7 @@ The idf for the word 'somos' is of: 0.4054651081081644
 
 The idf for the word 'mucho' is of: 0.4054651081081644
 
-The idf for the word 'm·s' is of: 0.4054651081081644
+The idf for the word 'm√°s' is of: 0.4054651081081644
 
 The idf for the word 'dos' is of: 0.4054651081081644
 
@@ -931,7 +931,7 @@ The idf for the word 'sabe' is of: 0.4054651081081644
 
 The idf for the word 'gritar' is of: 0.4054651081081644
 
-The idf for the word 'rebeldÌa' is of: 0.4054651081081644
+The idf for the word 'rebeld√≠a' is of: 0.4054651081081644
 
 The idf for the word 'rostro' is of: 0.4054651081081644
 
@@ -949,21 +949,21 @@ The idf for the word 'auriola' is of: 0.4054651081081644
 
 The idf for the word 'ni' is of: 0.4054651081081644
 
-The idf for the word 'c·ndida' is of: 0.4054651081081644
+The idf for the word 'c√°ndida' is of: 0.4054651081081644
 
 The idf for the word 'moraleja' is of: 0.4054651081081644
 
 The idf for the word 'pareja' is of: 0.4054651081081644
 
-The idf for the word 'est·' is of: 0.4054651081081644
+The idf for the word 'est√°' is of: 0.4054651081081644
 
 The idf for the word 'sola' is of: 0.4054651081081644
 
-The idf for the word 'paraÌso' is of: 0.4054651081081644
+The idf for the word 'para√≠so' is of: 0.4054651081081644
 
 The idf for the word 'decir' is of: 0.4054651081081644
 
-The idf for the word 'paÌs' is of: 0.4054651081081644
+The idf for the word 'pa√≠s' is of: 0.4054651081081644
 
 The idf for the word 'gente' is of: 0.4054651081081644
 
@@ -1032,7 +1032,7 @@ is of:
                     Start of tf's (term frequencies) computation:            
 ============================================================================
 
-==Term frequencies for text: {'mi ciudad': 3, 'ciudad es': 3, 'es chinampa': 2, 'chinampa en': 2, 'en un': 5, 'un lago': 2, 'lago escondido': 2, 'escondido es': 2, 'es cenzontle': 2, 'cenzontle que': 2, 'que busca': 2, 'busca en': 2, 'en donde': 2, 'donde hacer': 2, 'hacer nido': 2, 'nido rehilete': 2, 'rehilete que': 2, 'que engaÒa': 2, 'engaÒa la': 2, 'la vista': 2, 'vista al': 2, 'al girar': 2, 'girar baila': 2, 'baila al': 3, 'al son': 3, 'son del': 3, 'del tequila': 3, 'tequila y': 3, 'y de': 3, 'de su': 3, 'su valentÌa': 3, 'valentÌa es': 3, 'es jinete': 3, 'jinete que': 3, 'que arriesga': 3, 'arriesga la': 3, 'la vida': 3, 'vida en': 3, 'un lienzo': 3, 'lienzo de': 3, 'de fiesta': 3, 'fiesta y': 3, 'y color': 3, 'color mi': 1, 'es la': 1, 'la cuna': 1, 'cuna de': 1, 'de un': 1, 'un niÒo': 1, 'niÒo dormido': 1, 'dormido es': 1, 'es un': 4, 'un bosque': 1, 'bosque de': 1, 'de espejos': 1, 'espejos que': 1, 'que cuida': 1, 'cuida un': 1, 'un castillo': 1, 'castillo monumentos': 1, 'monumentos de': 1, 'de gloria': 1, 'gloria que': 1, 'que velan': 1, 'velan su': 1, 'su andar': 1, 'andar es': 1, 'un sol': 3, 'sol con': 3, 'con penacho': 3, 'penacho y': 3, 'y sarape': 3, 'sarape veteado': 3, 'veteado que': 3, 'que en': 3, 'en las': 3, 'las noches': 3, 'noches se': 3, 'se viste': 3, 'viste de': 3, 'de charro': 3, 'charro y': 3, 'y se': 3, 'se pone': 3, 'pone a': 3, 'a cantarle': 3, 'cantarle al': 3, 'al amor': 3, 'amor por': 1, 'por las': 1, 'las tardes': 1, 'tardes con': 1, 'con la': 1, 'la lluvia': 1, 'lluvia se': 1, 'se baÒa': 1, 'baÒa su': 1, 'su piel': 1, 'piel morena': 1, 'morena y': 1, 'y al': 1, 'al desatarse': 1, 'desatarse las': 1, 'las trenzas': 1, 'trenzas sus': 1, 'sus ojos': 1, 'ojos tristes': 1, 'tristes se': 1, 'se cierran': 1, 'cierran mi': 1, 'color es': 2, 'amor baila': 1}==
+==Term frequencies for text: {'mi ciudad': 3, 'ciudad es': 3, 'es chinampa': 2, 'chinampa en': 2, 'en un': 5, 'un lago': 2, 'lago escondido': 2, 'escondido es': 2, 'es cenzontle': 2, 'cenzontle que': 2, 'que busca': 2, 'busca en': 2, 'en donde': 2, 'donde hacer': 2, 'hacer nido': 2, 'nido rehilete': 2, 'rehilete que': 2, 'que enga√±a': 2, 'enga√±a la': 2, 'la vista': 2, 'vista al': 2, 'al girar': 2, 'girar baila': 2, 'baila al': 3, 'al son': 3, 'son del': 3, 'del tequila': 3, 'tequila y': 3, 'y de': 3, 'de su': 3, 'su valent√≠a': 3, 'valent√≠a es': 3, 'es jinete': 3, 'jinete que': 3, 'que arriesga': 3, 'arriesga la': 3, 'la vida': 3, 'vida en': 3, 'un lienzo': 3, 'lienzo de': 3, 'de fiesta': 3, 'fiesta y': 3, 'y color': 3, 'color mi': 1, 'es la': 1, 'la cuna': 1, 'cuna de': 1, 'de un': 1, 'un ni√±o': 1, 'ni√±o dormido': 1, 'dormido es': 1, 'es un': 4, 'un bosque': 1, 'bosque de': 1, 'de espejos': 1, 'espejos que': 1, 'que cuida': 1, 'cuida un': 1, 'un castillo': 1, 'castillo monumentos': 1, 'monumentos de': 1, 'de gloria': 1, 'gloria que': 1, 'que velan': 1, 'velan su': 1, 'su andar': 1, 'andar es': 1, 'un sol': 3, 'sol con': 3, 'con penacho': 3, 'penacho y': 3, 'y sarape': 3, 'sarape veteado': 3, 'veteado que': 3, 'que en': 3, 'en las': 3, 'las noches': 3, 'noches se': 3, 'se viste': 3, 'viste de': 3, 'de charro': 3, 'charro y': 3, 'y se': 3, 'se pone': 3, 'pone a': 3, 'a cantarle': 3, 'cantarle al': 3, 'al amor': 3, 'amor por': 1, 'por las': 1, 'las tardes': 1, 'tardes con': 1, 'con la': 1, 'la lluvia': 1, 'lluvia se': 1, 'se ba√±a': 1, 'ba√±a su': 1, 'su piel': 1, 'piel morena': 1, 'morena y': 1, 'y al': 1, 'al desatarse': 1, 'desatarse las': 1, 'las trenzas': 1, 'trenzas sus': 1, 'sus ojos': 1, 'ojos tristes': 1, 'tristes se': 1, 'se cierran': 1, 'cierran mi': 1, 'color es': 2, 'amor baila': 1}==
 
 The tf for the word 'mi ciudad' is of: 0.026785714285714284
 
@@ -1068,9 +1068,9 @@ The tf for the word 'nido rehilete' is of: 0.017857142857142856
 
 The tf for the word 'rehilete que' is of: 0.017857142857142856
 
-The tf for the word 'que engaÒa' is of: 0.017857142857142856
+The tf for the word 'que enga√±a' is of: 0.017857142857142856
 
-The tf for the word 'engaÒa la' is of: 0.017857142857142856
+The tf for the word 'enga√±a la' is of: 0.017857142857142856
 
 The tf for the word 'la vista' is of: 0.017857142857142856
 
@@ -1094,9 +1094,9 @@ The tf for the word 'y de' is of: 0.026785714285714284
 
 The tf for the word 'de su' is of: 0.026785714285714284
 
-The tf for the word 'su valentÌa' is of: 0.026785714285714284
+The tf for the word 'su valent√≠a' is of: 0.026785714285714284
 
-The tf for the word 'valentÌa es' is of: 0.026785714285714284
+The tf for the word 'valent√≠a es' is of: 0.026785714285714284
 
 The tf for the word 'es jinete' is of: 0.026785714285714284
 
@@ -1130,9 +1130,9 @@ The tf for the word 'cuna de' is of: 0.008928571428571428
 
 The tf for the word 'de un' is of: 0.008928571428571428
 
-The tf for the word 'un niÒo' is of: 0.008928571428571428
+The tf for the word 'un ni√±o' is of: 0.008928571428571428
 
-The tf for the word 'niÒo dormido' is of: 0.008928571428571428
+The tf for the word 'ni√±o dormido' is of: 0.008928571428571428
 
 The tf for the word 'dormido es' is of: 0.008928571428571428
 
@@ -1224,9 +1224,9 @@ The tf for the word 'la lluvia' is of: 0.008928571428571428
 
 The tf for the word 'lluvia se' is of: 0.008928571428571428
 
-The tf for the word 'se baÒa' is of: 0.008928571428571428
+The tf for the word 'se ba√±a' is of: 0.008928571428571428
 
-The tf for the word 'baÒa su' is of: 0.008928571428571428
+The tf for the word 'ba√±a su' is of: 0.008928571428571428
 
 The tf for the word 'su piel' is of: 0.008928571428571428
 
@@ -1258,7 +1258,7 @@ The tf for the word 'color es' is of: 0.017857142857142856
 
 The tf for the word 'amor baila' is of: 0.008928571428571428
 
-==Term frequencies for text: {'entre mis': 2, 'mis viejos': 2, 'viejos campanarios': 2, 'campanarios se': 2, 'se aparece': 2, 'aparece la': 2, 'la luna': 5, 'luna entre': 1, 'luna la': 1, 'la pajarera': 2, 'pajarera ya': 2, 'ya se': 2, 'se marcha': 2, 'marcha con': 2, 'con su': 2, 'su paisaje': 2, 'paisaje de': 2, 'de plumas': 2, 'plumas la': 2, 'luna cintura': 1, 'cintura de': 1, 'de noche': 1, 'noche flor': 1, 'flor chinampa': 1, 'chinampa de': 1, 'de siglos': 1, 'siglos noche': 1, 'noche de': 5, 'de cuento': 2, 'cuento mexicano': 2, 'mexicano se': 2, 'se ve': 2, 've bailando': 2, 'bailando en': 2, 'en la': 2, 'luna noche': 1, 'luna ciudad': 1, 'ciudad con': 2, 'con canto': 2, 'canto de': 3, 'de cilindro': 2, 'cilindro voz': 2, 'voz apagada': 2, 'apagada en': 2, 'en un': 2, 'un rezo': 2, 'rezo ciudad': 1, 'rezo laguna': 1, 'laguna de': 1, 'de mis': 1, 'mis abuelos': 1, 'abuelos tierra': 1, 'tierra de': 1, 'de agua': 1, 'agua celeste': 1, 'celeste regiÛn': 1, 'regiÛn transparente': 1, 'transparente ciudad': 1, 'ciudad de': 1, 'de palacios': 1, 'palacios te': 1, 'te llamaron': 1, 'llamaron te': 1, 'te nombraron': 1, 'nombraron canasta': 1, 'canasta de': 1, 'de flores': 4, 'flores adorna': 1, 'adorna tu': 1, 'tu frente': 1, 'frente de': 1, 'de colores': 2, 'colores de': 1, 'colores soy': 1, 'soy jardinero': 1, 'jardinero de': 1, 'de tus': 1, 'tus flores': 1, 'flores de': 3, 'de tu': 10, 'tu zandunga': 1, 'zandunga y': 1, 'y tu': 1, 'tu llanto': 1, 'llanto quiero': 1, 'quiero dejar': 1, 'dejar en': 1, 'en mis': 1, 'mis pregones': 1, 'pregones todo': 1, 'todo tu': 1, 'tu canto': 1, 'de fiesta': 1, 'fiesta juÈguesela': 1, 'juÈguesela patroncita': 1, 'patroncita el': 1, 'el cero': 1, 'cero que': 1, 'que llama': 1, 'llama dinero': 1, 'dinero es': 1, 'es mi': 1, 'mi ciudad': 1, 'ciudad ·rbol': 1, '·rbol rebelde': 1, 'rebelde deborando': 1, 'deborando en': 1, 'en sus': 1, 'sus brazos': 1, 'brazos todos': 1, 'todos aquellos': 1, 'aquellos personajes': 1, 'personajes y': 1, 'y aquÈl': 1, 'aquÈl refr·n': 1, 'refr·n que': 1, 'que decÌa': 1, 'decÌa te': 1, 'te quiero': 2, 'quiero paloma': 1, 'paloma mÌa': 1, 'mÌa te': 1, 'quiero flor': 1, 'flor de': 1, 'de mi': 1, 'mi vida': 1, 'vida surtidor': 1, 'surtidor del': 1, 'del cierlo': 1, 'cierlo danza': 1, 'danza de': 1, 'de mil': 1, 'mil flores': 1, 'flores floricanto': 1, 'floricanto floricanto': 1, 'floricanto de': 1, 'de aquÈl': 1, 'aquÈl rey': 1, 'rey poeta': 1, 'poeta tu': 1, 'tu plaza': 1, 'plaza soleada': 1, 'soleada que': 1, 'que huele': 1, 'huele a': 1, 'a murmullo': 1, 'murmullo de': 1, 'tu dÌa': 3, 'dÌa de': 3, 'tu noche': 3, 'tu pecho': 3, 'pecho cubierto': 3, 'cubierto de': 3}==
+==Term frequencies for text: {'entre mis': 2, 'mis viejos': 2, 'viejos campanarios': 2, 'campanarios se': 2, 'se aparece': 2, 'aparece la': 2, 'la luna': 5, 'luna entre': 1, 'luna la': 1, 'la pajarera': 2, 'pajarera ya': 2, 'ya se': 2, 'se marcha': 2, 'marcha con': 2, 'con su': 2, 'su paisaje': 2, 'paisaje de': 2, 'de plumas': 2, 'plumas la': 2, 'luna cintura': 1, 'cintura de': 1, 'de noche': 1, 'noche flor': 1, 'flor chinampa': 1, 'chinampa de': 1, 'de siglos': 1, 'siglos noche': 1, 'noche de': 5, 'de cuento': 2, 'cuento mexicano': 2, 'mexicano se': 2, 'se ve': 2, 've bailando': 2, 'bailando en': 2, 'en la': 2, 'luna noche': 1, 'luna ciudad': 1, 'ciudad con': 2, 'con canto': 2, 'canto de': 3, 'de cilindro': 2, 'cilindro voz': 2, 'voz apagada': 2, 'apagada en': 2, 'en un': 2, 'un rezo': 2, 'rezo ciudad': 1, 'rezo laguna': 1, 'laguna de': 1, 'de mis': 1, 'mis abuelos': 1, 'abuelos tierra': 1, 'tierra de': 1, 'de agua': 1, 'agua celeste': 1, 'celeste regi√≥n': 1, 'regi√≥n transparente': 1, 'transparente ciudad': 1, 'ciudad de': 1, 'de palacios': 1, 'palacios te': 1, 'te llamaron': 1, 'llamaron te': 1, 'te nombraron': 1, 'nombraron canasta': 1, 'canasta de': 1, 'de flores': 4, 'flores adorna': 1, 'adorna tu': 1, 'tu frente': 1, 'frente de': 1, 'de colores': 2, 'colores de': 1, 'colores soy': 1, 'soy jardinero': 1, 'jardinero de': 1, 'de tus': 1, 'tus flores': 1, 'flores de': 3, 'de tu': 10, 'tu zandunga': 1, 'zandunga y': 1, 'y tu': 1, 'tu llanto': 1, 'llanto quiero': 1, 'quiero dejar': 1, 'dejar en': 1, 'en mis': 1, 'mis pregones': 1, 'pregones todo': 1, 'todo tu': 1, 'tu canto': 1, 'de fiesta': 1, 'fiesta ju√©guesela': 1, 'ju√©guesela patroncita': 1, 'patroncita el': 1, 'el cero': 1, 'cero que': 1, 'que llama': 1, 'llama dinero': 1, 'dinero es': 1, 'es mi': 1, 'mi ciudad': 1, 'ciudad √°rbol': 1, '√°rbol rebelde': 1, 'rebelde deborando': 1, 'deborando en': 1, 'en sus': 1, 'sus brazos': 1, 'brazos todos': 1, 'todos aquellos': 1, 'aquellos personajes': 1, 'personajes y': 1, 'y aqu√©l': 1, 'aqu√©l refr√°n': 1, 'refr√°n que': 1, 'que dec√≠a': 1, 'dec√≠a te': 1, 'te quiero': 2, 'quiero paloma': 1, 'paloma m√≠a': 1, 'm√≠a te': 1, 'quiero flor': 1, 'flor de': 1, 'de mi': 1, 'mi vida': 1, 'vida surtidor': 1, 'surtidor del': 1, 'del cierlo': 1, 'cierlo danza': 1, 'danza de': 1, 'de mil': 1, 'mil flores': 1, 'flores floricanto': 1, 'floricanto floricanto': 1, 'floricanto de': 1, 'de aqu√©l': 1, 'aqu√©l rey': 1, 'rey poeta': 1, 'poeta tu': 1, 'tu plaza': 1, 'plaza soleada': 1, 'soleada que': 1, 'que huele': 1, 'huele a': 1, 'a murmullo': 1, 'murmullo de': 1, 'tu d√≠a': 3, 'd√≠a de': 3, 'tu noche': 3, 'tu pecho': 3, 'pecho cubierto': 3, 'cubierto de': 3}==
 
 The tf for the word 'entre mis' is of: 0.013071895424836602
 
@@ -1370,9 +1370,9 @@ The tf for the word 'de agua' is of: 0.006535947712418301
 
 The tf for the word 'agua celeste' is of: 0.006535947712418301
 
-The tf for the word 'celeste regiÛn' is of: 0.006535947712418301
+The tf for the word 'celeste regi√≥n' is of: 0.006535947712418301
 
-The tf for the word 'regiÛn transparente' is of: 0.006535947712418301
+The tf for the word 'regi√≥n transparente' is of: 0.006535947712418301
 
 The tf for the word 'transparente ciudad' is of: 0.006535947712418301
 
@@ -1446,9 +1446,9 @@ The tf for the word 'tu canto' is of: 0.006535947712418301
 
 The tf for the word 'de fiesta' is of: 0.006535947712418301
 
-The tf for the word 'fiesta juÈguesela' is of: 0.006535947712418301
+The tf for the word 'fiesta ju√©guesela' is of: 0.006535947712418301
 
-The tf for the word 'juÈguesela patroncita' is of: 0.006535947712418301
+The tf for the word 'ju√©guesela patroncita' is of: 0.006535947712418301
 
 The tf for the word 'patroncita el' is of: 0.006535947712418301
 
@@ -1466,9 +1466,9 @@ The tf for the word 'es mi' is of: 0.006535947712418301
 
 The tf for the word 'mi ciudad' is of: 0.006535947712418301
 
-The tf for the word 'ciudad ·rbol' is of: 0.006535947712418301
+The tf for the word 'ciudad √°rbol' is of: 0.006535947712418301
 
-The tf for the word '·rbol rebelde' is of: 0.006535947712418301
+The tf for the word '√°rbol rebelde' is of: 0.006535947712418301
 
 The tf for the word 'rebelde deborando' is of: 0.006535947712418301
 
@@ -1486,23 +1486,23 @@ The tf for the word 'aquellos personajes' is of: 0.006535947712418301
 
 The tf for the word 'personajes y' is of: 0.006535947712418301
 
-The tf for the word 'y aquÈl' is of: 0.006535947712418301
+The tf for the word 'y aqu√©l' is of: 0.006535947712418301
 
-The tf for the word 'aquÈl refr·n' is of: 0.006535947712418301
+The tf for the word 'aqu√©l refr√°n' is of: 0.006535947712418301
 
-The tf for the word 'refr·n que' is of: 0.006535947712418301
+The tf for the word 'refr√°n que' is of: 0.006535947712418301
 
-The tf for the word 'que decÌa' is of: 0.006535947712418301
+The tf for the word 'que dec√≠a' is of: 0.006535947712418301
 
-The tf for the word 'decÌa te' is of: 0.006535947712418301
+The tf for the word 'dec√≠a te' is of: 0.006535947712418301
 
 The tf for the word 'te quiero' is of: 0.013071895424836602
 
 The tf for the word 'quiero paloma' is of: 0.006535947712418301
 
-The tf for the word 'paloma mÌa' is of: 0.006535947712418301
+The tf for the word 'paloma m√≠a' is of: 0.006535947712418301
 
-The tf for the word 'mÌa te' is of: 0.006535947712418301
+The tf for the word 'm√≠a te' is of: 0.006535947712418301
 
 The tf for the word 'quiero flor' is of: 0.006535947712418301
 
@@ -1532,9 +1532,9 @@ The tf for the word 'floricanto floricanto' is of: 0.006535947712418301
 
 The tf for the word 'floricanto de' is of: 0.006535947712418301
 
-The tf for the word 'de aquÈl' is of: 0.006535947712418301
+The tf for the word 'de aqu√©l' is of: 0.006535947712418301
 
-The tf for the word 'aquÈl rey' is of: 0.006535947712418301
+The tf for the word 'aqu√©l rey' is of: 0.006535947712418301
 
 The tf for the word 'rey poeta' is of: 0.006535947712418301
 
@@ -1554,9 +1554,9 @@ The tf for the word 'a murmullo' is of: 0.006535947712418301
 
 The tf for the word 'murmullo de' is of: 0.006535947712418301
 
-The tf for the word 'tu dÌa' is of: 0.0196078431372549
+The tf for the word 'tu d√≠a' is of: 0.0196078431372549
 
-The tf for the word 'dÌa de' is of: 0.0196078431372549
+The tf for the word 'd√≠a de' is of: 0.0196078431372549
 
 The tf for the word 'tu noche' is of: 0.0196078431372549
 
@@ -1566,7 +1566,7 @@ The tf for the word 'pecho cubierto' is of: 0.0196078431372549
 
 The tf for the word 'cubierto de' is of: 0.0196078431372549
 
-==Term frequencies for text: {'si te': 3, 'te quiero': 8, 'quiero es': 3, 'es porque': 2, 'porque sos': 3, 'sos mi': 3, 'mi amor': 3, 'amor mi': 3, 'mi cÛmplice': 3, 'cÛmplice y': 3, 'y todo': 3, 'todo y': 3, 'y en': 3, 'en la': 3, 'la calle': 3, 'calle codo': 3, 'codo a': 3, 'a codo': 3, 'codo somos': 3, 'somos mucho': 5, 'mucho m·s': 5, 'm·s que': 5, 'que dos': 5, 'dos somos': 2, 'dos tus': 1, 'tus manos': 2, 'manos son': 1, 'son mi': 1, 'mi caricia': 1, 'caricia mis': 1, 'mis acordes': 1, 'acordes cotidianos': 1, 'cotidianos te': 1, 'quiero por': 3, 'por que': 3, 'que tus': 1, 'manos trabajan': 1, 'trabajan por': 1, 'por la': 1, 'la justicia': 1, 'justicia tus': 1, 'tus ojos': 1, 'ojos son': 1, 'son el': 1, 'el conjuro': 1, 'conjuro contra': 1, 'contra la': 1, 'la mala': 1, 'mala jornada': 1, 'jornada te': 1, 'por tu': 2, 'tu mirada': 1, 'mirada que': 1, 'que mira': 1, 'mira y': 1, 'y siembra': 1, 'siembra futuro': 1, 'futuro tu': 1, 'tu boca': 3, 'boca que': 1, 'que es': 1, 'es tuya': 1, 'tuya y': 1, 'y mÌa': 1, 'mÌa tu': 1, 'boca no': 1, 'no se': 1, 'se equivoca': 1, 'equivoca te': 1, 'que tu': 1, 'boca sabe': 1, 'sabe gritar': 1, 'gritar rebeldÌa': 1, 'rebeldÌa si': 1, 'dos y': 1, 'y por': 1, 'tu rostro': 1, 'rostro sincero': 1, 'sincero y': 1, 'y tu': 2, 'tu paso': 1, 'paso vagabundo': 1, 'vagabundo y': 1, 'tu llanto': 1, 'llanto por': 1, 'por el': 1, 'el mundo': 1, 'mundo porque': 1, 'sos pueblo': 1, 'pueblo te': 1, 'quiero y': 1, 'y porque': 2, 'porque amor': 1, 'amor no': 1, 'no es': 1, 'es auriola': 1, 'auriola ni': 1, 'ni c·ndida': 1, 'c·ndida moraleja': 1, 'moraleja y': 1, 'porque somos': 1, 'somos pareja': 1, 'pareja que': 1, 'que sabe': 1, 'sabe que': 1, 'que no': 1, 'no est·': 1, 'est· sola': 1, 'sola te': 1, 'quiero en': 1, 'en mi': 2, 'mi paraÌso': 1, 'paraÌso es': 1, 'es decir': 1, 'decir que': 1, 'que en': 1, 'mi paÌs': 1, 'paÌs la': 1, 'la gente': 1, 'gente viva': 1, 'viva feliz': 1, 'feliz aunque': 1, 'aunque no': 1, 'no tenga': 1, 'tenga permiso': 1, 'permiso si': 1, 'es por': 1, 'que sos': 1}==
+==Term frequencies for text: {'si te': 3, 'te quiero': 8, 'quiero es': 3, 'es porque': 2, 'porque sos': 3, 'sos mi': 3, 'mi amor': 3, 'amor mi': 3, 'mi c√≥mplice': 3, 'c√≥mplice y': 3, 'y todo': 3, 'todo y': 3, 'y en': 3, 'en la': 3, 'la calle': 3, 'calle codo': 3, 'codo a': 3, 'a codo': 3, 'codo somos': 3, 'somos mucho': 5, 'mucho m√°s': 5, 'm√°s que': 5, 'que dos': 5, 'dos somos': 2, 'dos tus': 1, 'tus manos': 2, 'manos son': 1, 'son mi': 1, 'mi caricia': 1, 'caricia mis': 1, 'mis acordes': 1, 'acordes cotidianos': 1, 'cotidianos te': 1, 'quiero por': 3, 'por que': 3, 'que tus': 1, 'manos trabajan': 1, 'trabajan por': 1, 'por la': 1, 'la justicia': 1, 'justicia tus': 1, 'tus ojos': 1, 'ojos son': 1, 'son el': 1, 'el conjuro': 1, 'conjuro contra': 1, 'contra la': 1, 'la mala': 1, 'mala jornada': 1, 'jornada te': 1, 'por tu': 2, 'tu mirada': 1, 'mirada que': 1, 'que mira': 1, 'mira y': 1, 'y siembra': 1, 'siembra futuro': 1, 'futuro tu': 1, 'tu boca': 3, 'boca que': 1, 'que es': 1, 'es tuya': 1, 'tuya y': 1, 'y m√≠a': 1, 'm√≠a tu': 1, 'boca no': 1, 'no se': 1, 'se equivoca': 1, 'equivoca te': 1, 'que tu': 1, 'boca sabe': 1, 'sabe gritar': 1, 'gritar rebeld√≠a': 1, 'rebeld√≠a si': 1, 'dos y': 1, 'y por': 1, 'tu rostro': 1, 'rostro sincero': 1, 'sincero y': 1, 'y tu': 2, 'tu paso': 1, 'paso vagabundo': 1, 'vagabundo y': 1, 'tu llanto': 1, 'llanto por': 1, 'por el': 1, 'el mundo': 1, 'mundo porque': 1, 'sos pueblo': 1, 'pueblo te': 1, 'quiero y': 1, 'y porque': 2, 'porque amor': 1, 'amor no': 1, 'no es': 1, 'es auriola': 1, 'auriola ni': 1, 'ni c√°ndida': 1, 'c√°ndida moraleja': 1, 'moraleja y': 1, 'porque somos': 1, 'somos pareja': 1, 'pareja que': 1, 'que sabe': 1, 'sabe que': 1, 'que no': 1, 'no est√°': 1, 'est√° sola': 1, 'sola te': 1, 'quiero en': 1, 'en mi': 2, 'mi para√≠so': 1, 'para√≠so es': 1, 'es decir': 1, 'decir que': 1, 'que en': 1, 'mi pa√≠s': 1, 'pa√≠s la': 1, 'la gente': 1, 'gente viva': 1, 'viva feliz': 1, 'feliz aunque': 1, 'aunque no': 1, 'no tenga': 1, 'tenga permiso': 1, 'permiso si': 1, 'es por': 1, 'que sos': 1}==
 
 The tf for the word 'si te' is of: 0.0234375
 
@@ -1584,9 +1584,9 @@ The tf for the word 'mi amor' is of: 0.0234375
 
 The tf for the word 'amor mi' is of: 0.0234375
 
-The tf for the word 'mi cÛmplice' is of: 0.0234375
+The tf for the word 'mi c√≥mplice' is of: 0.0234375
 
-The tf for the word 'cÛmplice y' is of: 0.0234375
+The tf for the word 'c√≥mplice y' is of: 0.0234375
 
 The tf for the word 'y todo' is of: 0.0234375
 
@@ -1608,9 +1608,9 @@ The tf for the word 'codo somos' is of: 0.0234375
 
 The tf for the word 'somos mucho' is of: 0.0390625
 
-The tf for the word 'mucho m·s' is of: 0.0390625
+The tf for the word 'mucho m√°s' is of: 0.0390625
 
-The tf for the word 'm·s que' is of: 0.0390625
+The tf for the word 'm√°s que' is of: 0.0390625
 
 The tf for the word 'que dos' is of: 0.0390625
 
@@ -1694,9 +1694,9 @@ The tf for the word 'es tuya' is of: 0.0078125
 
 The tf for the word 'tuya y' is of: 0.0078125
 
-The tf for the word 'y mÌa' is of: 0.0078125
+The tf for the word 'y m√≠a' is of: 0.0078125
 
-The tf for the word 'mÌa tu' is of: 0.0078125
+The tf for the word 'm√≠a tu' is of: 0.0078125
 
 The tf for the word 'boca no' is of: 0.0078125
 
@@ -1712,9 +1712,9 @@ The tf for the word 'boca sabe' is of: 0.0078125
 
 The tf for the word 'sabe gritar' is of: 0.0078125
 
-The tf for the word 'gritar rebeldÌa' is of: 0.0078125
+The tf for the word 'gritar rebeld√≠a' is of: 0.0078125
 
-The tf for the word 'rebeldÌa si' is of: 0.0078125
+The tf for the word 'rebeld√≠a si' is of: 0.0078125
 
 The tf for the word 'dos y' is of: 0.0078125
 
@@ -1762,9 +1762,9 @@ The tf for the word 'es auriola' is of: 0.0078125
 
 The tf for the word 'auriola ni' is of: 0.0078125
 
-The tf for the word 'ni c·ndida' is of: 0.0078125
+The tf for the word 'ni c√°ndida' is of: 0.0078125
 
-The tf for the word 'c·ndida moraleja' is of: 0.0078125
+The tf for the word 'c√°ndida moraleja' is of: 0.0078125
 
 The tf for the word 'moraleja y' is of: 0.0078125
 
@@ -1780,9 +1780,9 @@ The tf for the word 'sabe que' is of: 0.0078125
 
 The tf for the word 'que no' is of: 0.0078125
 
-The tf for the word 'no est·' is of: 0.0078125
+The tf for the word 'no est√°' is of: 0.0078125
 
-The tf for the word 'est· sola' is of: 0.0078125
+The tf for the word 'est√° sola' is of: 0.0078125
 
 The tf for the word 'sola te' is of: 0.0078125
 
@@ -1790,9 +1790,9 @@ The tf for the word 'quiero en' is of: 0.0078125
 
 The tf for the word 'en mi' is of: 0.015625
 
-The tf for the word 'mi paraÌso' is of: 0.0078125
+The tf for the word 'mi para√≠so' is of: 0.0078125
 
-The tf for the word 'paraÌso es' is of: 0.0078125
+The tf for the word 'para√≠so es' is of: 0.0078125
 
 The tf for the word 'es decir' is of: 0.0078125
 
@@ -1800,9 +1800,9 @@ The tf for the word 'decir que' is of: 0.0078125
 
 The tf for the word 'que en' is of: 0.0078125
 
-The tf for the word 'mi paÌs' is of: 0.0078125
+The tf for the word 'mi pa√≠s' is of: 0.0078125
 
-The tf for the word 'paÌs la' is of: 0.0078125
+The tf for the word 'pa√≠s la' is of: 0.0078125
 
 The tf for the word 'la gente' is of: 0.0078125
 
@@ -1863,9 +1863,9 @@ The idf for the word 'nido rehilete' is of: 0.4054651081081644
 
 The idf for the word 'rehilete que' is of: 0.4054651081081644
 
-The idf for the word 'que engaÒa' is of: 0.4054651081081644
+The idf for the word 'que enga√±a' is of: 0.4054651081081644
 
-The idf for the word 'engaÒa la' is of: 0.4054651081081644
+The idf for the word 'enga√±a la' is of: 0.4054651081081644
 
 The idf for the word 'la vista' is of: 0.4054651081081644
 
@@ -1889,9 +1889,9 @@ The idf for the word 'y de' is of: 0.4054651081081644
 
 The idf for the word 'de su' is of: 0.4054651081081644
 
-The idf for the word 'su valentÌa' is of: 0.4054651081081644
+The idf for the word 'su valent√≠a' is of: 0.4054651081081644
 
-The idf for the word 'valentÌa es' is of: 0.4054651081081644
+The idf for the word 'valent√≠a es' is of: 0.4054651081081644
 
 The idf for the word 'es jinete' is of: 0.4054651081081644
 
@@ -1925,9 +1925,9 @@ The idf for the word 'cuna de' is of: 0.4054651081081644
 
 The idf for the word 'de un' is of: 0.4054651081081644
 
-The idf for the word 'un niÒo' is of: 0.4054651081081644
+The idf for the word 'un ni√±o' is of: 0.4054651081081644
 
-The idf for the word 'niÒo dormido' is of: 0.4054651081081644
+The idf for the word 'ni√±o dormido' is of: 0.4054651081081644
 
 The idf for the word 'dormido es' is of: 0.4054651081081644
 
@@ -2019,9 +2019,9 @@ The idf for the word 'la lluvia' is of: 0.4054651081081644
 
 The idf for the word 'lluvia se' is of: 0.4054651081081644
 
-The idf for the word 'se baÒa' is of: 0.4054651081081644
+The idf for the word 'se ba√±a' is of: 0.4054651081081644
 
-The idf for the word 'baÒa su' is of: 0.4054651081081644
+The idf for the word 'ba√±a su' is of: 0.4054651081081644
 
 The idf for the word 'su piel' is of: 0.4054651081081644
 
@@ -2161,9 +2161,9 @@ The idf for the word 'de agua' is of: 0.4054651081081644
 
 The idf for the word 'agua celeste' is of: 0.4054651081081644
 
-The idf for the word 'celeste regiÛn' is of: 0.4054651081081644
+The idf for the word 'celeste regi√≥n' is of: 0.4054651081081644
 
-The idf for the word 'regiÛn transparente' is of: 0.4054651081081644
+The idf for the word 'regi√≥n transparente' is of: 0.4054651081081644
 
 The idf for the word 'transparente ciudad' is of: 0.4054651081081644
 
@@ -2235,9 +2235,9 @@ The idf for the word 'todo tu' is of: 0.4054651081081644
 
 The idf for the word 'tu canto' is of: 0.4054651081081644
 
-The idf for the word 'fiesta juÈguesela' is of: 0.4054651081081644
+The idf for the word 'fiesta ju√©guesela' is of: 0.4054651081081644
 
-The idf for the word 'juÈguesela patroncita' is of: 0.4054651081081644
+The idf for the word 'ju√©guesela patroncita' is of: 0.4054651081081644
 
 The idf for the word 'patroncita el' is of: 0.4054651081081644
 
@@ -2253,9 +2253,9 @@ The idf for the word 'dinero es' is of: 0.4054651081081644
 
 The idf for the word 'es mi' is of: 0.4054651081081644
 
-The idf for the word 'ciudad ·rbol' is of: 0.4054651081081644
+The idf for the word 'ciudad √°rbol' is of: 0.4054651081081644
 
-The idf for the word '·rbol rebelde' is of: 0.4054651081081644
+The idf for the word '√°rbol rebelde' is of: 0.4054651081081644
 
 The idf for the word 'rebelde deborando' is of: 0.4054651081081644
 
@@ -2273,23 +2273,23 @@ The idf for the word 'aquellos personajes' is of: 0.4054651081081644
 
 The idf for the word 'personajes y' is of: 0.4054651081081644
 
-The idf for the word 'y aquÈl' is of: 0.4054651081081644
+The idf for the word 'y aqu√©l' is of: 0.4054651081081644
 
-The idf for the word 'aquÈl refr·n' is of: 0.4054651081081644
+The idf for the word 'aqu√©l refr√°n' is of: 0.4054651081081644
 
-The idf for the word 'refr·n que' is of: 0.4054651081081644
+The idf for the word 'refr√°n que' is of: 0.4054651081081644
 
-The idf for the word 'que decÌa' is of: 0.4054651081081644
+The idf for the word 'que dec√≠a' is of: 0.4054651081081644
 
-The idf for the word 'decÌa te' is of: 0.4054651081081644
+The idf for the word 'dec√≠a te' is of: 0.4054651081081644
 
 The idf for the word 'te quiero' is of: 0.0
 
 The idf for the word 'quiero paloma' is of: 0.4054651081081644
 
-The idf for the word 'paloma mÌa' is of: 0.4054651081081644
+The idf for the word 'paloma m√≠a' is of: 0.4054651081081644
 
-The idf for the word 'mÌa te' is of: 0.4054651081081644
+The idf for the word 'm√≠a te' is of: 0.4054651081081644
 
 The idf for the word 'quiero flor' is of: 0.4054651081081644
 
@@ -2319,9 +2319,9 @@ The idf for the word 'floricanto floricanto' is of: 0.4054651081081644
 
 The idf for the word 'floricanto de' is of: 0.4054651081081644
 
-The idf for the word 'de aquÈl' is of: 0.4054651081081644
+The idf for the word 'de aqu√©l' is of: 0.4054651081081644
 
-The idf for the word 'aquÈl rey' is of: 0.4054651081081644
+The idf for the word 'aqu√©l rey' is of: 0.4054651081081644
 
 The idf for the word 'rey poeta' is of: 0.4054651081081644
 
@@ -2341,9 +2341,9 @@ The idf for the word 'a murmullo' is of: 0.4054651081081644
 
 The idf for the word 'murmullo de' is of: 0.4054651081081644
 
-The idf for the word 'tu dÌa' is of: 0.4054651081081644
+The idf for the word 'tu d√≠a' is of: 0.4054651081081644
 
-The idf for the word 'dÌa de' is of: 0.4054651081081644
+The idf for the word 'd√≠a de' is of: 0.4054651081081644
 
 The idf for the word 'tu noche' is of: 0.4054651081081644
 
@@ -2367,9 +2367,9 @@ The idf for the word 'mi amor' is of: 0.4054651081081644
 
 The idf for the word 'amor mi' is of: 0.4054651081081644
 
-The idf for the word 'mi cÛmplice' is of: 0.4054651081081644
+The idf for the word 'mi c√≥mplice' is of: 0.4054651081081644
 
-The idf for the word 'cÛmplice y' is of: 0.4054651081081644
+The idf for the word 'c√≥mplice y' is of: 0.4054651081081644
 
 The idf for the word 'y todo' is of: 0.4054651081081644
 
@@ -2389,9 +2389,9 @@ The idf for the word 'codo somos' is of: 0.4054651081081644
 
 The idf for the word 'somos mucho' is of: 0.4054651081081644
 
-The idf for the word 'mucho m·s' is of: 0.4054651081081644
+The idf for the word 'mucho m√°s' is of: 0.4054651081081644
 
-The idf for the word 'm·s que' is of: 0.4054651081081644
+The idf for the word 'm√°s que' is of: 0.4054651081081644
 
 The idf for the word 'que dos' is of: 0.4054651081081644
 
@@ -2475,9 +2475,9 @@ The idf for the word 'es tuya' is of: 0.4054651081081644
 
 The idf for the word 'tuya y' is of: 0.4054651081081644
 
-The idf for the word 'y mÌa' is of: 0.4054651081081644
+The idf for the word 'y m√≠a' is of: 0.4054651081081644
 
-The idf for the word 'mÌa tu' is of: 0.4054651081081644
+The idf for the word 'm√≠a tu' is of: 0.4054651081081644
 
 The idf for the word 'boca no' is of: 0.4054651081081644
 
@@ -2493,9 +2493,9 @@ The idf for the word 'boca sabe' is of: 0.4054651081081644
 
 The idf for the word 'sabe gritar' is of: 0.4054651081081644
 
-The idf for the word 'gritar rebeldÌa' is of: 0.4054651081081644
+The idf for the word 'gritar rebeld√≠a' is of: 0.4054651081081644
 
-The idf for the word 'rebeldÌa si' is of: 0.4054651081081644
+The idf for the word 'rebeld√≠a si' is of: 0.4054651081081644
 
 The idf for the word 'dos y' is of: 0.4054651081081644
 
@@ -2539,9 +2539,9 @@ The idf for the word 'es auriola' is of: 0.4054651081081644
 
 The idf for the word 'auriola ni' is of: 0.4054651081081644
 
-The idf for the word 'ni c·ndida' is of: 0.4054651081081644
+The idf for the word 'ni c√°ndida' is of: 0.4054651081081644
 
-The idf for the word 'c·ndida moraleja' is of: 0.4054651081081644
+The idf for the word 'c√°ndida moraleja' is of: 0.4054651081081644
 
 The idf for the word 'moraleja y' is of: 0.4054651081081644
 
@@ -2557,9 +2557,9 @@ The idf for the word 'sabe que' is of: 0.4054651081081644
 
 The idf for the word 'que no' is of: 0.4054651081081644
 
-The idf for the word 'no est·' is of: 0.4054651081081644
+The idf for the word 'no est√°' is of: 0.4054651081081644
 
-The idf for the word 'est· sola' is of: 0.4054651081081644
+The idf for the word 'est√° sola' is of: 0.4054651081081644
 
 The idf for the word 'sola te' is of: 0.4054651081081644
 
@@ -2567,17 +2567,17 @@ The idf for the word 'quiero en' is of: 0.4054651081081644
 
 The idf for the word 'en mi' is of: 0.4054651081081644
 
-The idf for the word 'mi paraÌso' is of: 0.4054651081081644
+The idf for the word 'mi para√≠so' is of: 0.4054651081081644
 
-The idf for the word 'paraÌso es' is of: 0.4054651081081644
+The idf for the word 'para√≠so es' is of: 0.4054651081081644
 
 The idf for the word 'es decir' is of: 0.4054651081081644
 
 The idf for the word 'decir que' is of: 0.4054651081081644
 
-The idf for the word 'mi paÌs' is of: 0.4054651081081644
+The idf for the word 'mi pa√≠s' is of: 0.4054651081081644
 
-The idf for the word 'paÌs la' is of: 0.4054651081081644
+The idf for the word 'pa√≠s la' is of: 0.4054651081081644
 
 The idf for the word 'la gente' is of: 0.4054651081081644
 
@@ -2654,7 +2654,7 @@ is of:
                     Start of tf's (term frequencies) computation:            
 ============================================================================
 
-==Term frequencies for text: {'mi ciudad es': 3, 'ciudad es chinampa': 2, 'es chinampa en': 2, 'chinampa en un': 2, 'en un lago': 2, 'un lago escondido': 2, 'lago escondido es': 2, 'escondido es cenzontle': 2, 'es cenzontle que': 2, 'cenzontle que busca': 2, 'que busca en': 2, 'busca en donde': 2, 'en donde hacer': 2, 'donde hacer nido': 2, 'hacer nido rehilete': 2, 'nido rehilete que': 2, 'rehilete que engaÒa': 2, 'que engaÒa la': 2, 'engaÒa la vista': 2, 'la vista al': 2, 'vista al girar': 2, 'al girar baila': 2, 'girar baila al': 2, 'baila al son': 3, 'al son del': 3, 'son del tequila': 3, 'del tequila y': 3, 'tequila y de': 3, 'y de su': 3, 'de su valentÌa': 3, 'su valentÌa es': 3, 'valentÌa es jinete': 3, 'es jinete que': 3, 'jinete que arriesga': 3, 'que arriesga la': 3, 'arriesga la vida': 3, 'la vida en': 3, 'vida en un': 3, 'en un lienzo': 3, 'un lienzo de': 3, 'lienzo de fiesta': 3, 'de fiesta y': 3, 'fiesta y color': 3, 'y color mi': 1, 'color mi ciudad': 1, 'ciudad es la': 1, 'es la cuna': 1, 'la cuna de': 1, 'cuna de un': 1, 'de un niÒo': 1, 'un niÒo dormido': 1, 'niÒo dormido es': 1, 'dormido es un': 1, 'es un bosque': 1, 'un bosque de': 1, 'bosque de espejos': 1, 'de espejos que': 1, 'espejos que cuida': 1, 'que cuida un': 1, 'cuida un castillo': 1, 'un castillo monumentos': 1, 'castillo monumentos de': 1, 'monumentos de gloria': 1, 'de gloria que': 1, 'gloria que velan': 1, 'que velan su': 1, 'velan su andar': 1, 'su andar es': 1, 'andar es un': 1, 'es un sol': 3, 'un sol con': 3, 'sol con penacho': 3, 'con penacho y': 3, 'penacho y sarape': 3, 'y sarape veteado': 3, 'sarape veteado que': 3, 'veteado que en': 3, 'que en las': 3, 'en las noches': 3, 'las noches se': 3, 'noches se viste': 3, 'se viste de': 3, 'viste de charro': 3, 'de charro y': 3, 'charro y se': 3, 'y se pone': 3, 'se pone a': 3, 'pone a cantarle': 3, 'a cantarle al': 3, 'cantarle al amor': 3, 'al amor por': 1, 'amor por las': 1, 'por las tardes': 1, 'las tardes con': 1, 'tardes con la': 1, 'con la lluvia': 1, 'la lluvia se': 1, 'lluvia se baÒa': 1, 'se baÒa su': 1, 'baÒa su piel': 1, 'su piel morena': 1, 'piel morena y': 1, 'morena y al': 1, 'y al desatarse': 1, 'al desatarse las': 1, 'desatarse las trenzas': 1, 'las trenzas sus': 1, 'trenzas sus ojos': 1, 'sus ojos tristes': 1, 'ojos tristes se': 1, 'tristes se cierran': 1, 'se cierran mi': 1, 'cierran mi ciudad': 1, 'y color es': 2, 'color es un': 2, 'al amor baila': 1, 'amor baila al': 1}==
+==Term frequencies for text: {'mi ciudad es': 3, 'ciudad es chinampa': 2, 'es chinampa en': 2, 'chinampa en un': 2, 'en un lago': 2, 'un lago escondido': 2, 'lago escondido es': 2, 'escondido es cenzontle': 2, 'es cenzontle que': 2, 'cenzontle que busca': 2, 'que busca en': 2, 'busca en donde': 2, 'en donde hacer': 2, 'donde hacer nido': 2, 'hacer nido rehilete': 2, 'nido rehilete que': 2, 'rehilete que enga√±a': 2, 'que enga√±a la': 2, 'enga√±a la vista': 2, 'la vista al': 2, 'vista al girar': 2, 'al girar baila': 2, 'girar baila al': 2, 'baila al son': 3, 'al son del': 3, 'son del tequila': 3, 'del tequila y': 3, 'tequila y de': 3, 'y de su': 3, 'de su valent√≠a': 3, 'su valent√≠a es': 3, 'valent√≠a es jinete': 3, 'es jinete que': 3, 'jinete que arriesga': 3, 'que arriesga la': 3, 'arriesga la vida': 3, 'la vida en': 3, 'vida en un': 3, 'en un lienzo': 3, 'un lienzo de': 3, 'lienzo de fiesta': 3, 'de fiesta y': 3, 'fiesta y color': 3, 'y color mi': 1, 'color mi ciudad': 1, 'ciudad es la': 1, 'es la cuna': 1, 'la cuna de': 1, 'cuna de un': 1, 'de un ni√±o': 1, 'un ni√±o dormido': 1, 'ni√±o dormido es': 1, 'dormido es un': 1, 'es un bosque': 1, 'un bosque de': 1, 'bosque de espejos': 1, 'de espejos que': 1, 'espejos que cuida': 1, 'que cuida un': 1, 'cuida un castillo': 1, 'un castillo monumentos': 1, 'castillo monumentos de': 1, 'monumentos de gloria': 1, 'de gloria que': 1, 'gloria que velan': 1, 'que velan su': 1, 'velan su andar': 1, 'su andar es': 1, 'andar es un': 1, 'es un sol': 3, 'un sol con': 3, 'sol con penacho': 3, 'con penacho y': 3, 'penacho y sarape': 3, 'y sarape veteado': 3, 'sarape veteado que': 3, 'veteado que en': 3, 'que en las': 3, 'en las noches': 3, 'las noches se': 3, 'noches se viste': 3, 'se viste de': 3, 'viste de charro': 3, 'de charro y': 3, 'charro y se': 3, 'y se pone': 3, 'se pone a': 3, 'pone a cantarle': 3, 'a cantarle al': 3, 'cantarle al amor': 3, 'al amor por': 1, 'amor por las': 1, 'por las tardes': 1, 'las tardes con': 1, 'tardes con la': 1, 'con la lluvia': 1, 'la lluvia se': 1, 'lluvia se ba√±a': 1, 'se ba√±a su': 1, 'ba√±a su piel': 1, 'su piel morena': 1, 'piel morena y': 1, 'morena y al': 1, 'y al desatarse': 1, 'al desatarse las': 1, 'desatarse las trenzas': 1, 'las trenzas sus': 1, 'trenzas sus ojos': 1, 'sus ojos tristes': 1, 'ojos tristes se': 1, 'tristes se cierran': 1, 'se cierran mi': 1, 'cierran mi ciudad': 1, 'y color es': 2, 'color es un': 2, 'al amor baila': 1, 'amor baila al': 1}==
 
 The tf for the word 'mi ciudad es' is of: 0.02564102564102564
 
@@ -2688,11 +2688,11 @@ The tf for the word 'hacer nido rehilete' is of: 0.017094017094017096
 
 The tf for the word 'nido rehilete que' is of: 0.017094017094017096
 
-The tf for the word 'rehilete que engaÒa' is of: 0.017094017094017096
+The tf for the word 'rehilete que enga√±a' is of: 0.017094017094017096
 
-The tf for the word 'que engaÒa la' is of: 0.017094017094017096
+The tf for the word 'que enga√±a la' is of: 0.017094017094017096
 
-The tf for the word 'engaÒa la vista' is of: 0.017094017094017096
+The tf for the word 'enga√±a la vista' is of: 0.017094017094017096
 
 The tf for the word 'la vista al' is of: 0.017094017094017096
 
@@ -2714,11 +2714,11 @@ The tf for the word 'tequila y de' is of: 0.02564102564102564
 
 The tf for the word 'y de su' is of: 0.02564102564102564
 
-The tf for the word 'de su valentÌa' is of: 0.02564102564102564
+The tf for the word 'de su valent√≠a' is of: 0.02564102564102564
 
-The tf for the word 'su valentÌa es' is of: 0.02564102564102564
+The tf for the word 'su valent√≠a es' is of: 0.02564102564102564
 
-The tf for the word 'valentÌa es jinete' is of: 0.02564102564102564
+The tf for the word 'valent√≠a es jinete' is of: 0.02564102564102564
 
 The tf for the word 'es jinete que' is of: 0.02564102564102564
 
@@ -2754,11 +2754,11 @@ The tf for the word 'la cuna de' is of: 0.008547008547008548
 
 The tf for the word 'cuna de un' is of: 0.008547008547008548
 
-The tf for the word 'de un niÒo' is of: 0.008547008547008548
+The tf for the word 'de un ni√±o' is of: 0.008547008547008548
 
-The tf for the word 'un niÒo dormido' is of: 0.008547008547008548
+The tf for the word 'un ni√±o dormido' is of: 0.008547008547008548
 
-The tf for the word 'niÒo dormido es' is of: 0.008547008547008548
+The tf for the word 'ni√±o dormido es' is of: 0.008547008547008548
 
 The tf for the word 'dormido es un' is of: 0.008547008547008548
 
@@ -2850,11 +2850,11 @@ The tf for the word 'con la lluvia' is of: 0.008547008547008548
 
 The tf for the word 'la lluvia se' is of: 0.008547008547008548
 
-The tf for the word 'lluvia se baÒa' is of: 0.008547008547008548
+The tf for the word 'lluvia se ba√±a' is of: 0.008547008547008548
 
-The tf for the word 'se baÒa su' is of: 0.008547008547008548
+The tf for the word 'se ba√±a su' is of: 0.008547008547008548
 
-The tf for the word 'baÒa su piel' is of: 0.008547008547008548
+The tf for the word 'ba√±a su piel' is of: 0.008547008547008548
 
 The tf for the word 'su piel morena' is of: 0.008547008547008548
 
@@ -2890,7 +2890,7 @@ The tf for the word 'al amor baila' is of: 0.008547008547008548
 
 The tf for the word 'amor baila al' is of: 0.008547008547008548
 
-==Term frequencies for text: {'entre mis viejos': 2, 'mis viejos campanarios': 2, 'viejos campanarios se': 2, 'campanarios se aparece': 2, 'se aparece la': 2, 'aparece la luna': 2, 'la luna entre': 1, 'luna entre mis': 1, 'la luna la': 1, 'luna la pajarera': 1, 'la pajarera ya': 2, 'pajarera ya se': 2, 'ya se marcha': 2, 'se marcha con': 2, 'marcha con su': 2, 'con su paisaje': 2, 'su paisaje de': 2, 'paisaje de plumas': 2, 'de plumas la': 2, 'plumas la pajarera': 1, 'plumas la luna': 1, 'la luna cintura': 1, 'luna cintura de': 1, 'cintura de noche': 1, 'de noche flor': 1, 'noche flor chinampa': 1, 'flor chinampa de': 1, 'chinampa de siglos': 1, 'de siglos noche': 1, 'siglos noche de': 1, 'noche de cuento': 2, 'de cuento mexicano': 2, 'cuento mexicano se': 2, 'mexicano se ve': 2, 'se ve bailando': 2, 've bailando en': 2, 'bailando en la': 2, 'en la luna': 2, 'la luna noche': 1, 'luna noche de': 1, 'la luna ciudad': 1, 'luna ciudad con': 1, 'ciudad con canto': 2, 'con canto de': 2, 'canto de cilindro': 2, 'de cilindro voz': 2, 'cilindro voz apagada': 2, 'voz apagada en': 2, 'apagada en un': 2, 'en un rezo': 2, 'un rezo ciudad': 1, 'rezo ciudad con': 1, 'un rezo laguna': 1, 'rezo laguna de': 1, 'laguna de mis': 1, 'de mis abuelos': 1, 'mis abuelos tierra': 1, 'abuelos tierra de': 1, 'tierra de agua': 1, 'de agua celeste': 1, 'agua celeste regiÛn': 1, 'celeste regiÛn transparente': 1, 'regiÛn transparente ciudad': 1, 'transparente ciudad de': 1, 'ciudad de palacios': 1, 'de palacios te': 1, 'palacios te llamaron': 1, 'te llamaron te': 1, 'llamaron te nombraron': 1, 'te nombraron canasta': 1, 'nombraron canasta de': 1, 'canasta de flores': 1, 'de flores adorna': 1, 'flores adorna tu': 1, 'adorna tu frente': 1, 'tu frente de': 1, 'frente de colores': 1, 'de colores de': 1, 'colores de colores': 1, 'de colores soy': 1, 'colores soy jardinero': 1, 'soy jardinero de': 1, 'jardinero de tus': 1, 'de tus flores': 1, 'tus flores de': 1, 'flores de tu': 3, 'de tu zandunga': 1, 'tu zandunga y': 1, 'zandunga y tu': 1, 'y tu llanto': 1, 'tu llanto quiero': 1, 'llanto quiero dejar': 1, 'quiero dejar en': 1, 'dejar en mis': 1, 'en mis pregones': 1, 'mis pregones todo': 1, 'pregones todo tu': 1, 'todo tu canto': 1, 'tu canto de': 1, 'canto de fiesta': 1, 'de fiesta juÈguesela': 1, 'fiesta juÈguesela patroncita': 1, 'juÈguesela patroncita el': 1, 'patroncita el cero': 1, 'el cero que': 1, 'cero que llama': 1, 'que llama dinero': 1, 'llama dinero es': 1, 'dinero es mi': 1, 'es mi ciudad': 1, 'mi ciudad ·rbol': 1, 'ciudad ·rbol rebelde': 1, '·rbol rebelde deborando': 1, 'rebelde deborando en': 1, 'deborando en sus': 1, 'en sus brazos': 1, 'sus brazos todos': 1, 'brazos todos aquellos': 1, 'todos aquellos personajes': 1, 'aquellos personajes y': 1, 'personajes y aquÈl': 1, 'y aquÈl refr·n': 1, 'aquÈl refr·n que': 1, 'refr·n que decÌa': 1, 'que decÌa te': 1, 'decÌa te quiero': 1, 'te quiero paloma': 1, 'quiero paloma mÌa': 1, 'paloma mÌa te': 1, 'mÌa te quiero': 1, 'te quiero flor': 1, 'quiero flor de': 1, 'flor de mi': 1, 'de mi vida': 1, 'mi vida surtidor': 1, 'vida surtidor del': 1, 'surtidor del cierlo': 1, 'del cierlo danza': 1, 'cierlo danza de': 1, 'danza de mil': 1, 'de mil flores': 1, 'mil flores floricanto': 1, 'flores floricanto floricanto': 1, 'floricanto floricanto de': 1, 'floricanto de aquÈl': 1, 'de aquÈl rey': 1, 'aquÈl rey poeta': 1, 'rey poeta tu': 1, 'poeta tu plaza': 1, 'tu plaza soleada': 1, 'plaza soleada que': 1, 'soleada que huele': 1, 'que huele a': 1, 'huele a murmullo': 1, 'a murmullo de': 1, 'murmullo de tu': 1, 'de tu dÌa': 3, 'tu dÌa de': 3, 'dÌa de tu': 3, 'de tu noche': 3, 'tu noche de': 3, 'noche de tu': 3, 'de tu pecho': 3, 'tu pecho cubierto': 3, 'pecho cubierto de': 3, 'cubierto de flores': 3, 'de flores de': 2}==
+==Term frequencies for text: {'entre mis viejos': 2, 'mis viejos campanarios': 2, 'viejos campanarios se': 2, 'campanarios se aparece': 2, 'se aparece la': 2, 'aparece la luna': 2, 'la luna entre': 1, 'luna entre mis': 1, 'la luna la': 1, 'luna la pajarera': 1, 'la pajarera ya': 2, 'pajarera ya se': 2, 'ya se marcha': 2, 'se marcha con': 2, 'marcha con su': 2, 'con su paisaje': 2, 'su paisaje de': 2, 'paisaje de plumas': 2, 'de plumas la': 2, 'plumas la pajarera': 1, 'plumas la luna': 1, 'la luna cintura': 1, 'luna cintura de': 1, 'cintura de noche': 1, 'de noche flor': 1, 'noche flor chinampa': 1, 'flor chinampa de': 1, 'chinampa de siglos': 1, 'de siglos noche': 1, 'siglos noche de': 1, 'noche de cuento': 2, 'de cuento mexicano': 2, 'cuento mexicano se': 2, 'mexicano se ve': 2, 'se ve bailando': 2, 've bailando en': 2, 'bailando en la': 2, 'en la luna': 2, 'la luna noche': 1, 'luna noche de': 1, 'la luna ciudad': 1, 'luna ciudad con': 1, 'ciudad con canto': 2, 'con canto de': 2, 'canto de cilindro': 2, 'de cilindro voz': 2, 'cilindro voz apagada': 2, 'voz apagada en': 2, 'apagada en un': 2, 'en un rezo': 2, 'un rezo ciudad': 1, 'rezo ciudad con': 1, 'un rezo laguna': 1, 'rezo laguna de': 1, 'laguna de mis': 1, 'de mis abuelos': 1, 'mis abuelos tierra': 1, 'abuelos tierra de': 1, 'tierra de agua': 1, 'de agua celeste': 1, 'agua celeste regi√≥n': 1, 'celeste regi√≥n transparente': 1, 'regi√≥n transparente ciudad': 1, 'transparente ciudad de': 1, 'ciudad de palacios': 1, 'de palacios te': 1, 'palacios te llamaron': 1, 'te llamaron te': 1, 'llamaron te nombraron': 1, 'te nombraron canasta': 1, 'nombraron canasta de': 1, 'canasta de flores': 1, 'de flores adorna': 1, 'flores adorna tu': 1, 'adorna tu frente': 1, 'tu frente de': 1, 'frente de colores': 1, 'de colores de': 1, 'colores de colores': 1, 'de colores soy': 1, 'colores soy jardinero': 1, 'soy jardinero de': 1, 'jardinero de tus': 1, 'de tus flores': 1, 'tus flores de': 1, 'flores de tu': 3, 'de tu zandunga': 1, 'tu zandunga y': 1, 'zandunga y tu': 1, 'y tu llanto': 1, 'tu llanto quiero': 1, 'llanto quiero dejar': 1, 'quiero dejar en': 1, 'dejar en mis': 1, 'en mis pregones': 1, 'mis pregones todo': 1, 'pregones todo tu': 1, 'todo tu canto': 1, 'tu canto de': 1, 'canto de fiesta': 1, 'de fiesta ju√©guesela': 1, 'fiesta ju√©guesela patroncita': 1, 'ju√©guesela patroncita el': 1, 'patroncita el cero': 1, 'el cero que': 1, 'cero que llama': 1, 'que llama dinero': 1, 'llama dinero es': 1, 'dinero es mi': 1, 'es mi ciudad': 1, 'mi ciudad √°rbol': 1, 'ciudad √°rbol rebelde': 1, '√°rbol rebelde deborando': 1, 'rebelde deborando en': 1, 'deborando en sus': 1, 'en sus brazos': 1, 'sus brazos todos': 1, 'brazos todos aquellos': 1, 'todos aquellos personajes': 1, 'aquellos personajes y': 1, 'personajes y aqu√©l': 1, 'y aqu√©l refr√°n': 1, 'aqu√©l refr√°n que': 1, 'refr√°n que dec√≠a': 1, 'que dec√≠a te': 1, 'dec√≠a te quiero': 1, 'te quiero paloma': 1, 'quiero paloma m√≠a': 1, 'paloma m√≠a te': 1, 'm√≠a te quiero': 1, 'te quiero flor': 1, 'quiero flor de': 1, 'flor de mi': 1, 'de mi vida': 1, 'mi vida surtidor': 1, 'vida surtidor del': 1, 'surtidor del cierlo': 1, 'del cierlo danza': 1, 'cierlo danza de': 1, 'danza de mil': 1, 'de mil flores': 1, 'mil flores floricanto': 1, 'flores floricanto floricanto': 1, 'floricanto floricanto de': 1, 'floricanto de aqu√©l': 1, 'de aqu√©l rey': 1, 'aqu√©l rey poeta': 1, 'rey poeta tu': 1, 'poeta tu plaza': 1, 'tu plaza soleada': 1, 'plaza soleada que': 1, 'soleada que huele': 1, 'que huele a': 1, 'huele a murmullo': 1, 'a murmullo de': 1, 'murmullo de tu': 1, 'de tu d√≠a': 3, 'tu d√≠a de': 3, 'd√≠a de tu': 3, 'de tu noche': 3, 'tu noche de': 3, 'noche de tu': 3, 'de tu pecho': 3, 'tu pecho cubierto': 3, 'pecho cubierto de': 3, 'cubierto de flores': 3, 'de flores de': 2}==
 
 The tf for the word 'entre mis viejos' is of: 0.011976047904191617
 
@@ -3012,11 +3012,11 @@ The tf for the word 'tierra de agua' is of: 0.005988023952095809
 
 The tf for the word 'de agua celeste' is of: 0.005988023952095809
 
-The tf for the word 'agua celeste regiÛn' is of: 0.005988023952095809
+The tf for the word 'agua celeste regi√≥n' is of: 0.005988023952095809
 
-The tf for the word 'celeste regiÛn transparente' is of: 0.005988023952095809
+The tf for the word 'celeste regi√≥n transparente' is of: 0.005988023952095809
 
-The tf for the word 'regiÛn transparente ciudad' is of: 0.005988023952095809
+The tf for the word 'regi√≥n transparente ciudad' is of: 0.005988023952095809
 
 The tf for the word 'transparente ciudad de' is of: 0.005988023952095809
 
@@ -3092,11 +3092,11 @@ The tf for the word 'tu canto de' is of: 0.005988023952095809
 
 The tf for the word 'canto de fiesta' is of: 0.005988023952095809
 
-The tf for the word 'de fiesta juÈguesela' is of: 0.005988023952095809
+The tf for the word 'de fiesta ju√©guesela' is of: 0.005988023952095809
 
-The tf for the word 'fiesta juÈguesela patroncita' is of: 0.005988023952095809
+The tf for the word 'fiesta ju√©guesela patroncita' is of: 0.005988023952095809
 
-The tf for the word 'juÈguesela patroncita el' is of: 0.005988023952095809
+The tf for the word 'ju√©guesela patroncita el' is of: 0.005988023952095809
 
 The tf for the word 'patroncita el cero' is of: 0.005988023952095809
 
@@ -3112,11 +3112,11 @@ The tf for the word 'dinero es mi' is of: 0.005988023952095809
 
 The tf for the word 'es mi ciudad' is of: 0.005988023952095809
 
-The tf for the word 'mi ciudad ·rbol' is of: 0.005988023952095809
+The tf for the word 'mi ciudad √°rbol' is of: 0.005988023952095809
 
-The tf for the word 'ciudad ·rbol rebelde' is of: 0.005988023952095809
+The tf for the word 'ciudad √°rbol rebelde' is of: 0.005988023952095809
 
-The tf for the word '·rbol rebelde deborando' is of: 0.005988023952095809
+The tf for the word '√°rbol rebelde deborando' is of: 0.005988023952095809
 
 The tf for the word 'rebelde deborando en' is of: 0.005988023952095809
 
@@ -3132,25 +3132,25 @@ The tf for the word 'todos aquellos personajes' is of: 0.005988023952095809
 
 The tf for the word 'aquellos personajes y' is of: 0.005988023952095809
 
-The tf for the word 'personajes y aquÈl' is of: 0.005988023952095809
+The tf for the word 'personajes y aqu√©l' is of: 0.005988023952095809
 
-The tf for the word 'y aquÈl refr·n' is of: 0.005988023952095809
+The tf for the word 'y aqu√©l refr√°n' is of: 0.005988023952095809
 
-The tf for the word 'aquÈl refr·n que' is of: 0.005988023952095809
+The tf for the word 'aqu√©l refr√°n que' is of: 0.005988023952095809
 
-The tf for the word 'refr·n que decÌa' is of: 0.005988023952095809
+The tf for the word 'refr√°n que dec√≠a' is of: 0.005988023952095809
 
-The tf for the word 'que decÌa te' is of: 0.005988023952095809
+The tf for the word 'que dec√≠a te' is of: 0.005988023952095809
 
-The tf for the word 'decÌa te quiero' is of: 0.005988023952095809
+The tf for the word 'dec√≠a te quiero' is of: 0.005988023952095809
 
 The tf for the word 'te quiero paloma' is of: 0.005988023952095809
 
-The tf for the word 'quiero paloma mÌa' is of: 0.005988023952095809
+The tf for the word 'quiero paloma m√≠a' is of: 0.005988023952095809
 
-The tf for the word 'paloma mÌa te' is of: 0.005988023952095809
+The tf for the word 'paloma m√≠a te' is of: 0.005988023952095809
 
-The tf for the word 'mÌa te quiero' is of: 0.005988023952095809
+The tf for the word 'm√≠a te quiero' is of: 0.005988023952095809
 
 The tf for the word 'te quiero flor' is of: 0.005988023952095809
 
@@ -3180,11 +3180,11 @@ The tf for the word 'flores floricanto floricanto' is of: 0.005988023952095809
 
 The tf for the word 'floricanto floricanto de' is of: 0.005988023952095809
 
-The tf for the word 'floricanto de aquÈl' is of: 0.005988023952095809
+The tf for the word 'floricanto de aqu√©l' is of: 0.005988023952095809
 
-The tf for the word 'de aquÈl rey' is of: 0.005988023952095809
+The tf for the word 'de aqu√©l rey' is of: 0.005988023952095809
 
-The tf for the word 'aquÈl rey poeta' is of: 0.005988023952095809
+The tf for the word 'aqu√©l rey poeta' is of: 0.005988023952095809
 
 The tf for the word 'rey poeta tu' is of: 0.005988023952095809
 
@@ -3204,11 +3204,11 @@ The tf for the word 'a murmullo de' is of: 0.005988023952095809
 
 The tf for the word 'murmullo de tu' is of: 0.005988023952095809
 
-The tf for the word 'de tu dÌa' is of: 0.017964071856287425
+The tf for the word 'de tu d√≠a' is of: 0.017964071856287425
 
-The tf for the word 'tu dÌa de' is of: 0.017964071856287425
+The tf for the word 'tu d√≠a de' is of: 0.017964071856287425
 
-The tf for the word 'dÌa de tu' is of: 0.017964071856287425
+The tf for the word 'd√≠a de tu' is of: 0.017964071856287425
 
 The tf for the word 'de tu noche' is of: 0.017964071856287425
 
@@ -3226,7 +3226,7 @@ The tf for the word 'cubierto de flores' is of: 0.017964071856287425
 
 The tf for the word 'de flores de' is of: 0.011976047904191617
 
-==Term frequencies for text: {'si te quiero': 3, 'te quiero es': 3, 'quiero es porque': 2, 'es porque sos': 2, 'porque sos mi': 2, 'sos mi amor': 3, 'mi amor mi': 3, 'amor mi cÛmplice': 3, 'mi cÛmplice y': 3, 'cÛmplice y todo': 3, 'y todo y': 3, 'todo y en': 3, 'y en la': 3, 'en la calle': 3, 'la calle codo': 3, 'calle codo a': 3, 'codo a codo': 3, 'a codo somos': 3, 'codo somos mucho': 3, 'somos mucho m·s': 5, 'mucho m·s que': 5, 'm·s que dos': 5, 'que dos somos': 2, 'dos somos mucho': 2, 'que dos tus': 1, 'dos tus manos': 1, 'tus manos son': 1, 'manos son mi': 1, 'son mi caricia': 1, 'mi caricia mis': 1, 'caricia mis acordes': 1, 'mis acordes cotidianos': 1, 'acordes cotidianos te': 1, 'cotidianos te quiero': 1, 'te quiero por': 3, 'quiero por que': 2, 'por que tus': 1, 'que tus manos': 1, 'tus manos trabajan': 1, 'manos trabajan por': 1, 'trabajan por la': 1, 'por la justicia': 1, 'la justicia tus': 1, 'justicia tus ojos': 1, 'tus ojos son': 1, 'ojos son el': 1, 'son el conjuro': 1, 'el conjuro contra': 1, 'conjuro contra la': 1, 'contra la mala': 1, 'la mala jornada': 1, 'mala jornada te': 1, 'jornada te quiero': 1, 'quiero por tu': 1, 'por tu mirada': 1, 'tu mirada que': 1, 'mirada que mira': 1, 'que mira y': 1, 'mira y siembra': 1, 'y siembra futuro': 1, 'siembra futuro tu': 1, 'futuro tu boca': 1, 'tu boca que': 1, 'boca que es': 1, 'que es tuya': 1, 'es tuya y': 1, 'tuya y mÌa': 1, 'y mÌa tu': 1, 'mÌa tu boca': 1, 'tu boca no': 1, 'boca no se': 1, 'no se equivoca': 1, 'se equivoca te': 1, 'equivoca te quiero': 1, 'por que tu': 1, 'que tu boca': 1, 'tu boca sabe': 1, 'boca sabe gritar': 1, 'sabe gritar rebeldÌa': 1, 'gritar rebeldÌa si': 1, 'rebeldÌa si te': 1, 'que dos y': 1, 'dos y por': 1, 'y por tu': 1, 'por tu rostro': 1, 'tu rostro sincero': 1, 'rostro sincero y': 1, 'sincero y tu': 1, 'y tu paso': 1, 'tu paso vagabundo': 1, 'paso vagabundo y': 1, 'vagabundo y tu': 1, 'y tu llanto': 1, 'tu llanto por': 1, 'llanto por el': 1, 'por el mundo': 1, 'el mundo porque': 1, 'mundo porque sos': 1, 'porque sos pueblo': 1, 'sos pueblo te': 1, 'pueblo te quiero': 1, 'te quiero y': 1, 'quiero y porque': 1, 'y porque amor': 1, 'porque amor no': 1, 'amor no es': 1, 'no es auriola': 1, 'es auriola ni': 1, 'auriola ni c·ndida': 1, 'ni c·ndida moraleja': 1, 'c·ndida moraleja y': 1, 'moraleja y porque': 1, 'y porque somos': 1, 'porque somos pareja': 1, 'somos pareja que': 1, 'pareja que sabe': 1, 'que sabe que': 1, 'sabe que no': 1, 'que no est·': 1, 'no est· sola': 1, 'est· sola te': 1, 'sola te quiero': 1, 'te quiero en': 1, 'quiero en mi': 1, 'en mi paraÌso': 1, 'mi paraÌso es': 1, 'paraÌso es decir': 1, 'es decir que': 1, 'decir que en': 1, 'que en mi': 1, 'en mi paÌs': 1, 'mi paÌs la': 1, 'paÌs la gente': 1, 'la gente viva': 1, 'gente viva feliz': 1, 'viva feliz aunque': 1, 'feliz aunque no': 1, 'aunque no tenga': 1, 'no tenga permiso': 1, 'tenga permiso si': 1, 'permiso si te': 1, 'quiero es por': 1, 'es por que': 1, 'por que sos': 1, 'que sos mi': 1}==
+==Term frequencies for text: {'si te quiero': 3, 'te quiero es': 3, 'quiero es porque': 2, 'es porque sos': 2, 'porque sos mi': 2, 'sos mi amor': 3, 'mi amor mi': 3, 'amor mi c√≥mplice': 3, 'mi c√≥mplice y': 3, 'c√≥mplice y todo': 3, 'y todo y': 3, 'todo y en': 3, 'y en la': 3, 'en la calle': 3, 'la calle codo': 3, 'calle codo a': 3, 'codo a codo': 3, 'a codo somos': 3, 'codo somos mucho': 3, 'somos mucho m√°s': 5, 'mucho m√°s que': 5, 'm√°s que dos': 5, 'que dos somos': 2, 'dos somos mucho': 2, 'que dos tus': 1, 'dos tus manos': 1, 'tus manos son': 1, 'manos son mi': 1, 'son mi caricia': 1, 'mi caricia mis': 1, 'caricia mis acordes': 1, 'mis acordes cotidianos': 1, 'acordes cotidianos te': 1, 'cotidianos te quiero': 1, 'te quiero por': 3, 'quiero por que': 2, 'por que tus': 1, 'que tus manos': 1, 'tus manos trabajan': 1, 'manos trabajan por': 1, 'trabajan por la': 1, 'por la justicia': 1, 'la justicia tus': 1, 'justicia tus ojos': 1, 'tus ojos son': 1, 'ojos son el': 1, 'son el conjuro': 1, 'el conjuro contra': 1, 'conjuro contra la': 1, 'contra la mala': 1, 'la mala jornada': 1, 'mala jornada te': 1, 'jornada te quiero': 1, 'quiero por tu': 1, 'por tu mirada': 1, 'tu mirada que': 1, 'mirada que mira': 1, 'que mira y': 1, 'mira y siembra': 1, 'y siembra futuro': 1, 'siembra futuro tu': 1, 'futuro tu boca': 1, 'tu boca que': 1, 'boca que es': 1, 'que es tuya': 1, 'es tuya y': 1, 'tuya y m√≠a': 1, 'y m√≠a tu': 1, 'm√≠a tu boca': 1, 'tu boca no': 1, 'boca no se': 1, 'no se equivoca': 1, 'se equivoca te': 1, 'equivoca te quiero': 1, 'por que tu': 1, 'que tu boca': 1, 'tu boca sabe': 1, 'boca sabe gritar': 1, 'sabe gritar rebeld√≠a': 1, 'gritar rebeld√≠a si': 1, 'rebeld√≠a si te': 1, 'que dos y': 1, 'dos y por': 1, 'y por tu': 1, 'por tu rostro': 1, 'tu rostro sincero': 1, 'rostro sincero y': 1, 'sincero y tu': 1, 'y tu paso': 1, 'tu paso vagabundo': 1, 'paso vagabundo y': 1, 'vagabundo y tu': 1, 'y tu llanto': 1, 'tu llanto por': 1, 'llanto por el': 1, 'por el mundo': 1, 'el mundo porque': 1, 'mundo porque sos': 1, 'porque sos pueblo': 1, 'sos pueblo te': 1, 'pueblo te quiero': 1, 'te quiero y': 1, 'quiero y porque': 1, 'y porque amor': 1, 'porque amor no': 1, 'amor no es': 1, 'no es auriola': 1, 'es auriola ni': 1, 'auriola ni c√°ndida': 1, 'ni c√°ndida moraleja': 1, 'c√°ndida moraleja y': 1, 'moraleja y porque': 1, 'y porque somos': 1, 'porque somos pareja': 1, 'somos pareja que': 1, 'pareja que sabe': 1, 'que sabe que': 1, 'sabe que no': 1, 'que no est√°': 1, 'no est√° sola': 1, 'est√° sola te': 1, 'sola te quiero': 1, 'te quiero en': 1, 'quiero en mi': 1, 'en mi para√≠so': 1, 'mi para√≠so es': 1, 'para√≠so es decir': 1, 'es decir que': 1, 'decir que en': 1, 'que en mi': 1, 'en mi pa√≠s': 1, 'mi pa√≠s la': 1, 'pa√≠s la gente': 1, 'la gente viva': 1, 'gente viva feliz': 1, 'viva feliz aunque': 1, 'feliz aunque no': 1, 'aunque no tenga': 1, 'no tenga permiso': 1, 'tenga permiso si': 1, 'permiso si te': 1, 'quiero es por': 1, 'es por que': 1, 'por que sos': 1, 'que sos mi': 1}==
 
 The tf for the word 'si te quiero' is of: 0.020689655172413793
 
@@ -3242,11 +3242,11 @@ The tf for the word 'sos mi amor' is of: 0.020689655172413793
 
 The tf for the word 'mi amor mi' is of: 0.020689655172413793
 
-The tf for the word 'amor mi cÛmplice' is of: 0.020689655172413793
+The tf for the word 'amor mi c√≥mplice' is of: 0.020689655172413793
 
-The tf for the word 'mi cÛmplice y' is of: 0.020689655172413793
+The tf for the word 'mi c√≥mplice y' is of: 0.020689655172413793
 
-The tf for the word 'cÛmplice y todo' is of: 0.020689655172413793
+The tf for the word 'c√≥mplice y todo' is of: 0.020689655172413793
 
 The tf for the word 'y todo y' is of: 0.020689655172413793
 
@@ -3266,11 +3266,11 @@ The tf for the word 'a codo somos' is of: 0.020689655172413793
 
 The tf for the word 'codo somos mucho' is of: 0.020689655172413793
 
-The tf for the word 'somos mucho m·s' is of: 0.034482758620689655
+The tf for the word 'somos mucho m√°s' is of: 0.034482758620689655
 
-The tf for the word 'mucho m·s que' is of: 0.034482758620689655
+The tf for the word 'mucho m√°s que' is of: 0.034482758620689655
 
-The tf for the word 'm·s que dos' is of: 0.034482758620689655
+The tf for the word 'm√°s que dos' is of: 0.034482758620689655
 
 The tf for the word 'que dos somos' is of: 0.013793103448275862
 
@@ -3360,11 +3360,11 @@ The tf for the word 'que es tuya' is of: 0.006896551724137931
 
 The tf for the word 'es tuya y' is of: 0.006896551724137931
 
-The tf for the word 'tuya y mÌa' is of: 0.006896551724137931
+The tf for the word 'tuya y m√≠a' is of: 0.006896551724137931
 
-The tf for the word 'y mÌa tu' is of: 0.006896551724137931
+The tf for the word 'y m√≠a tu' is of: 0.006896551724137931
 
-The tf for the word 'mÌa tu boca' is of: 0.006896551724137931
+The tf for the word 'm√≠a tu boca' is of: 0.006896551724137931
 
 The tf for the word 'tu boca no' is of: 0.006896551724137931
 
@@ -3384,11 +3384,11 @@ The tf for the word 'tu boca sabe' is of: 0.006896551724137931
 
 The tf for the word 'boca sabe gritar' is of: 0.006896551724137931
 
-The tf for the word 'sabe gritar rebeldÌa' is of: 0.006896551724137931
+The tf for the word 'sabe gritar rebeld√≠a' is of: 0.006896551724137931
 
-The tf for the word 'gritar rebeldÌa si' is of: 0.006896551724137931
+The tf for the word 'gritar rebeld√≠a si' is of: 0.006896551724137931
 
-The tf for the word 'rebeldÌa si te' is of: 0.006896551724137931
+The tf for the word 'rebeld√≠a si te' is of: 0.006896551724137931
 
 The tf for the word 'que dos y' is of: 0.006896551724137931
 
@@ -3444,11 +3444,11 @@ The tf for the word 'no es auriola' is of: 0.006896551724137931
 
 The tf for the word 'es auriola ni' is of: 0.006896551724137931
 
-The tf for the word 'auriola ni c·ndida' is of: 0.006896551724137931
+The tf for the word 'auriola ni c√°ndida' is of: 0.006896551724137931
 
-The tf for the word 'ni c·ndida moraleja' is of: 0.006896551724137931
+The tf for the word 'ni c√°ndida moraleja' is of: 0.006896551724137931
 
-The tf for the word 'c·ndida moraleja y' is of: 0.006896551724137931
+The tf for the word 'c√°ndida moraleja y' is of: 0.006896551724137931
 
 The tf for the word 'moraleja y porque' is of: 0.006896551724137931
 
@@ -3464,11 +3464,11 @@ The tf for the word 'que sabe que' is of: 0.006896551724137931
 
 The tf for the word 'sabe que no' is of: 0.006896551724137931
 
-The tf for the word 'que no est·' is of: 0.006896551724137931
+The tf for the word 'que no est√°' is of: 0.006896551724137931
 
-The tf for the word 'no est· sola' is of: 0.006896551724137931
+The tf for the word 'no est√° sola' is of: 0.006896551724137931
 
-The tf for the word 'est· sola te' is of: 0.006896551724137931
+The tf for the word 'est√° sola te' is of: 0.006896551724137931
 
 The tf for the word 'sola te quiero' is of: 0.006896551724137931
 
@@ -3476,11 +3476,11 @@ The tf for the word 'te quiero en' is of: 0.006896551724137931
 
 The tf for the word 'quiero en mi' is of: 0.006896551724137931
 
-The tf for the word 'en mi paraÌso' is of: 0.006896551724137931
+The tf for the word 'en mi para√≠so' is of: 0.006896551724137931
 
-The tf for the word 'mi paraÌso es' is of: 0.006896551724137931
+The tf for the word 'mi para√≠so es' is of: 0.006896551724137931
 
-The tf for the word 'paraÌso es decir' is of: 0.006896551724137931
+The tf for the word 'para√≠so es decir' is of: 0.006896551724137931
 
 The tf for the word 'es decir que' is of: 0.006896551724137931
 
@@ -3488,11 +3488,11 @@ The tf for the word 'decir que en' is of: 0.006896551724137931
 
 The tf for the word 'que en mi' is of: 0.006896551724137931
 
-The tf for the word 'en mi paÌs' is of: 0.006896551724137931
+The tf for the word 'en mi pa√≠s' is of: 0.006896551724137931
 
-The tf for the word 'mi paÌs la' is of: 0.006896551724137931
+The tf for the word 'mi pa√≠s la' is of: 0.006896551724137931
 
-The tf for the word 'paÌs la gente' is of: 0.006896551724137931
+The tf for the word 'pa√≠s la gente' is of: 0.006896551724137931
 
 The tf for the word 'la gente viva' is of: 0.006896551724137931
 
@@ -3555,11 +3555,11 @@ The idf for the word 'hacer nido rehilete' is of: 0.4054651081081644
 
 The idf for the word 'nido rehilete que' is of: 0.4054651081081644
 
-The idf for the word 'rehilete que engaÒa' is of: 0.4054651081081644
+The idf for the word 'rehilete que enga√±a' is of: 0.4054651081081644
 
-The idf for the word 'que engaÒa la' is of: 0.4054651081081644
+The idf for the word 'que enga√±a la' is of: 0.4054651081081644
 
-The idf for the word 'engaÒa la vista' is of: 0.4054651081081644
+The idf for the word 'enga√±a la vista' is of: 0.4054651081081644
 
 The idf for the word 'la vista al' is of: 0.4054651081081644
 
@@ -3581,11 +3581,11 @@ The idf for the word 'tequila y de' is of: 0.4054651081081644
 
 The idf for the word 'y de su' is of: 0.4054651081081644
 
-The idf for the word 'de su valentÌa' is of: 0.4054651081081644
+The idf for the word 'de su valent√≠a' is of: 0.4054651081081644
 
-The idf for the word 'su valentÌa es' is of: 0.4054651081081644
+The idf for the word 'su valent√≠a es' is of: 0.4054651081081644
 
-The idf for the word 'valentÌa es jinete' is of: 0.4054651081081644
+The idf for the word 'valent√≠a es jinete' is of: 0.4054651081081644
 
 The idf for the word 'es jinete que' is of: 0.4054651081081644
 
@@ -3621,11 +3621,11 @@ The idf for the word 'la cuna de' is of: 0.4054651081081644
 
 The idf for the word 'cuna de un' is of: 0.4054651081081644
 
-The idf for the word 'de un niÒo' is of: 0.4054651081081644
+The idf for the word 'de un ni√±o' is of: 0.4054651081081644
 
-The idf for the word 'un niÒo dormido' is of: 0.4054651081081644
+The idf for the word 'un ni√±o dormido' is of: 0.4054651081081644
 
-The idf for the word 'niÒo dormido es' is of: 0.4054651081081644
+The idf for the word 'ni√±o dormido es' is of: 0.4054651081081644
 
 The idf for the word 'dormido es un' is of: 0.4054651081081644
 
@@ -3717,11 +3717,11 @@ The idf for the word 'con la lluvia' is of: 0.4054651081081644
 
 The idf for the word 'la lluvia se' is of: 0.4054651081081644
 
-The idf for the word 'lluvia se baÒa' is of: 0.4054651081081644
+The idf for the word 'lluvia se ba√±a' is of: 0.4054651081081644
 
-The idf for the word 'se baÒa su' is of: 0.4054651081081644
+The idf for the word 'se ba√±a su' is of: 0.4054651081081644
 
-The idf for the word 'baÒa su piel' is of: 0.4054651081081644
+The idf for the word 'ba√±a su piel' is of: 0.4054651081081644
 
 The idf for the word 'su piel morena' is of: 0.4054651081081644
 
@@ -3877,11 +3877,11 @@ The idf for the word 'tierra de agua' is of: 0.4054651081081644
 
 The idf for the word 'de agua celeste' is of: 0.4054651081081644
 
-The idf for the word 'agua celeste regiÛn' is of: 0.4054651081081644
+The idf for the word 'agua celeste regi√≥n' is of: 0.4054651081081644
 
-The idf for the word 'celeste regiÛn transparente' is of: 0.4054651081081644
+The idf for the word 'celeste regi√≥n transparente' is of: 0.4054651081081644
 
-The idf for the word 'regiÛn transparente ciudad' is of: 0.4054651081081644
+The idf for the word 'regi√≥n transparente ciudad' is of: 0.4054651081081644
 
 The idf for the word 'transparente ciudad de' is of: 0.4054651081081644
 
@@ -3957,11 +3957,11 @@ The idf for the word 'tu canto de' is of: 0.4054651081081644
 
 The idf for the word 'canto de fiesta' is of: 0.4054651081081644
 
-The idf for the word 'de fiesta juÈguesela' is of: 0.4054651081081644
+The idf for the word 'de fiesta ju√©guesela' is of: 0.4054651081081644
 
-The idf for the word 'fiesta juÈguesela patroncita' is of: 0.4054651081081644
+The idf for the word 'fiesta ju√©guesela patroncita' is of: 0.4054651081081644
 
-The idf for the word 'juÈguesela patroncita el' is of: 0.4054651081081644
+The idf for the word 'ju√©guesela patroncita el' is of: 0.4054651081081644
 
 The idf for the word 'patroncita el cero' is of: 0.4054651081081644
 
@@ -3977,11 +3977,11 @@ The idf for the word 'dinero es mi' is of: 0.4054651081081644
 
 The idf for the word 'es mi ciudad' is of: 0.4054651081081644
 
-The idf for the word 'mi ciudad ·rbol' is of: 0.4054651081081644
+The idf for the word 'mi ciudad √°rbol' is of: 0.4054651081081644
 
-The idf for the word 'ciudad ·rbol rebelde' is of: 0.4054651081081644
+The idf for the word 'ciudad √°rbol rebelde' is of: 0.4054651081081644
 
-The idf for the word '·rbol rebelde deborando' is of: 0.4054651081081644
+The idf for the word '√°rbol rebelde deborando' is of: 0.4054651081081644
 
 The idf for the word 'rebelde deborando en' is of: 0.4054651081081644
 
@@ -3997,25 +3997,25 @@ The idf for the word 'todos aquellos personajes' is of: 0.4054651081081644
 
 The idf for the word 'aquellos personajes y' is of: 0.4054651081081644
 
-The idf for the word 'personajes y aquÈl' is of: 0.4054651081081644
+The idf for the word 'personajes y aqu√©l' is of: 0.4054651081081644
 
-The idf for the word 'y aquÈl refr·n' is of: 0.4054651081081644
+The idf for the word 'y aqu√©l refr√°n' is of: 0.4054651081081644
 
-The idf for the word 'aquÈl refr·n que' is of: 0.4054651081081644
+The idf for the word 'aqu√©l refr√°n que' is of: 0.4054651081081644
 
-The idf for the word 'refr·n que decÌa' is of: 0.4054651081081644
+The idf for the word 'refr√°n que dec√≠a' is of: 0.4054651081081644
 
-The idf for the word 'que decÌa te' is of: 0.4054651081081644
+The idf for the word 'que dec√≠a te' is of: 0.4054651081081644
 
-The idf for the word 'decÌa te quiero' is of: 0.4054651081081644
+The idf for the word 'dec√≠a te quiero' is of: 0.4054651081081644
 
 The idf for the word 'te quiero paloma' is of: 0.4054651081081644
 
-The idf for the word 'quiero paloma mÌa' is of: 0.4054651081081644
+The idf for the word 'quiero paloma m√≠a' is of: 0.4054651081081644
 
-The idf for the word 'paloma mÌa te' is of: 0.4054651081081644
+The idf for the word 'paloma m√≠a te' is of: 0.4054651081081644
 
-The idf for the word 'mÌa te quiero' is of: 0.4054651081081644
+The idf for the word 'm√≠a te quiero' is of: 0.4054651081081644
 
 The idf for the word 'te quiero flor' is of: 0.4054651081081644
 
@@ -4045,11 +4045,11 @@ The idf for the word 'flores floricanto floricanto' is of: 0.4054651081081644
 
 The idf for the word 'floricanto floricanto de' is of: 0.4054651081081644
 
-The idf for the word 'floricanto de aquÈl' is of: 0.4054651081081644
+The idf for the word 'floricanto de aqu√©l' is of: 0.4054651081081644
 
-The idf for the word 'de aquÈl rey' is of: 0.4054651081081644
+The idf for the word 'de aqu√©l rey' is of: 0.4054651081081644
 
-The idf for the word 'aquÈl rey poeta' is of: 0.4054651081081644
+The idf for the word 'aqu√©l rey poeta' is of: 0.4054651081081644
 
 The idf for the word 'rey poeta tu' is of: 0.4054651081081644
 
@@ -4069,11 +4069,11 @@ The idf for the word 'a murmullo de' is of: 0.4054651081081644
 
 The idf for the word 'murmullo de tu' is of: 0.4054651081081644
 
-The idf for the word 'de tu dÌa' is of: 0.4054651081081644
+The idf for the word 'de tu d√≠a' is of: 0.4054651081081644
 
-The idf for the word 'tu dÌa de' is of: 0.4054651081081644
+The idf for the word 'tu d√≠a de' is of: 0.4054651081081644
 
-The idf for the word 'dÌa de tu' is of: 0.4054651081081644
+The idf for the word 'd√≠a de tu' is of: 0.4054651081081644
 
 The idf for the word 'de tu noche' is of: 0.4054651081081644
 
@@ -4105,11 +4105,11 @@ The idf for the word 'sos mi amor' is of: 0.4054651081081644
 
 The idf for the word 'mi amor mi' is of: 0.4054651081081644
 
-The idf for the word 'amor mi cÛmplice' is of: 0.4054651081081644
+The idf for the word 'amor mi c√≥mplice' is of: 0.4054651081081644
 
-The idf for the word 'mi cÛmplice y' is of: 0.4054651081081644
+The idf for the word 'mi c√≥mplice y' is of: 0.4054651081081644
 
-The idf for the word 'cÛmplice y todo' is of: 0.4054651081081644
+The idf for the word 'c√≥mplice y todo' is of: 0.4054651081081644
 
 The idf for the word 'y todo y' is of: 0.4054651081081644
 
@@ -4129,11 +4129,11 @@ The idf for the word 'a codo somos' is of: 0.4054651081081644
 
 The idf for the word 'codo somos mucho' is of: 0.4054651081081644
 
-The idf for the word 'somos mucho m·s' is of: 0.4054651081081644
+The idf for the word 'somos mucho m√°s' is of: 0.4054651081081644
 
-The idf for the word 'mucho m·s que' is of: 0.4054651081081644
+The idf for the word 'mucho m√°s que' is of: 0.4054651081081644
 
-The idf for the word 'm·s que dos' is of: 0.4054651081081644
+The idf for the word 'm√°s que dos' is of: 0.4054651081081644
 
 The idf for the word 'que dos somos' is of: 0.4054651081081644
 
@@ -4223,11 +4223,11 @@ The idf for the word 'que es tuya' is of: 0.4054651081081644
 
 The idf for the word 'es tuya y' is of: 0.4054651081081644
 
-The idf for the word 'tuya y mÌa' is of: 0.4054651081081644
+The idf for the word 'tuya y m√≠a' is of: 0.4054651081081644
 
-The idf for the word 'y mÌa tu' is of: 0.4054651081081644
+The idf for the word 'y m√≠a tu' is of: 0.4054651081081644
 
-The idf for the word 'mÌa tu boca' is of: 0.4054651081081644
+The idf for the word 'm√≠a tu boca' is of: 0.4054651081081644
 
 The idf for the word 'tu boca no' is of: 0.4054651081081644
 
@@ -4247,11 +4247,11 @@ The idf for the word 'tu boca sabe' is of: 0.4054651081081644
 
 The idf for the word 'boca sabe gritar' is of: 0.4054651081081644
 
-The idf for the word 'sabe gritar rebeldÌa' is of: 0.4054651081081644
+The idf for the word 'sabe gritar rebeld√≠a' is of: 0.4054651081081644
 
-The idf for the word 'gritar rebeldÌa si' is of: 0.4054651081081644
+The idf for the word 'gritar rebeld√≠a si' is of: 0.4054651081081644
 
-The idf for the word 'rebeldÌa si te' is of: 0.4054651081081644
+The idf for the word 'rebeld√≠a si te' is of: 0.4054651081081644
 
 The idf for the word 'que dos y' is of: 0.4054651081081644
 
@@ -4305,11 +4305,11 @@ The idf for the word 'no es auriola' is of: 0.4054651081081644
 
 The idf for the word 'es auriola ni' is of: 0.4054651081081644
 
-The idf for the word 'auriola ni c·ndida' is of: 0.4054651081081644
+The idf for the word 'auriola ni c√°ndida' is of: 0.4054651081081644
 
-The idf for the word 'ni c·ndida moraleja' is of: 0.4054651081081644
+The idf for the word 'ni c√°ndida moraleja' is of: 0.4054651081081644
 
-The idf for the word 'c·ndida moraleja y' is of: 0.4054651081081644
+The idf for the word 'c√°ndida moraleja y' is of: 0.4054651081081644
 
 The idf for the word 'moraleja y porque' is of: 0.4054651081081644
 
@@ -4325,11 +4325,11 @@ The idf for the word 'que sabe que' is of: 0.4054651081081644
 
 The idf for the word 'sabe que no' is of: 0.4054651081081644
 
-The idf for the word 'que no est·' is of: 0.4054651081081644
+The idf for the word 'que no est√°' is of: 0.4054651081081644
 
-The idf for the word 'no est· sola' is of: 0.4054651081081644
+The idf for the word 'no est√° sola' is of: 0.4054651081081644
 
-The idf for the word 'est· sola te' is of: 0.4054651081081644
+The idf for the word 'est√° sola te' is of: 0.4054651081081644
 
 The idf for the word 'sola te quiero' is of: 0.4054651081081644
 
@@ -4337,11 +4337,11 @@ The idf for the word 'te quiero en' is of: 0.4054651081081644
 
 The idf for the word 'quiero en mi' is of: 0.4054651081081644
 
-The idf for the word 'en mi paraÌso' is of: 0.4054651081081644
+The idf for the word 'en mi para√≠so' is of: 0.4054651081081644
 
-The idf for the word 'mi paraÌso es' is of: 0.4054651081081644
+The idf for the word 'mi para√≠so es' is of: 0.4054651081081644
 
-The idf for the word 'paraÌso es decir' is of: 0.4054651081081644
+The idf for the word 'para√≠so es decir' is of: 0.4054651081081644
 
 The idf for the word 'es decir que' is of: 0.4054651081081644
 
@@ -4349,11 +4349,11 @@ The idf for the word 'decir que en' is of: 0.4054651081081644
 
 The idf for the word 'que en mi' is of: 0.4054651081081644
 
-The idf for the word 'en mi paÌs' is of: 0.4054651081081644
+The idf for the word 'en mi pa√≠s' is of: 0.4054651081081644
 
-The idf for the word 'mi paÌs la' is of: 0.4054651081081644
+The idf for the word 'mi pa√≠s la' is of: 0.4054651081081644
 
-The idf for the word 'paÌs la gente' is of: 0.4054651081081644
+The idf for the word 'pa√≠s la gente' is of: 0.4054651081081644
 
 The idf for the word 'la gente viva' is of: 0.4054651081081644
 
