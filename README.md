@@ -6,7 +6,8 @@ This program implements the n-gram-model (https://en.wikipedia.org/wiki/N-gram),
 
 ## Execution of the program
 
-In your terminal run the command: python nGramModel.py
+In your terminal run the command: python nGramModel.py (if you want to output the results in an output file, try a command similar to: python nGramModel.py > nGramM_output.txt)
+        
 
 Notice that the source code must be "outside" the folder "InputTexts" that has the texts we want to analyze.
 
